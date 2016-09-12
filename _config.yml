@@ -25,6 +25,8 @@ url: "http://wavefunction91.github.io" # the base hostname & protocol for your s
 twitter_username: wavefunction91
 github_username:  wavefunction91
 
+include: ['_assets']
+
 # Build settings
 markdown: kramdown
 theme: minima
