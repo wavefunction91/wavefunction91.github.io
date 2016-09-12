@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Main]({{sit.url}}/assets_/profile.jpg)
 
 David Williams, Graduate Student, Department of Chemistry, University of Washington.
 
