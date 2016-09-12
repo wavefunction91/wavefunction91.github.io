@@ -18,6 +18,7 @@ software package. ChronusQ is an open-source quantum chemistry code that focuses
 time-dependent and unconventional SCF and post-SCF methods such as relativistic hamiltonians and the
 particle-particle random phase approximation (pp-RPA). The source of the public release of ChronusQ may be found
 at {% include icon-github.html username="liresearchgroup" %} / 
-[chronusq\_public](http://www.github.com/liresearchgroup/chronusq_public). 
+[chronusq\_public](http://www.github.com/liresearchgroup/chronusq_public). To gain access to the development
+branch of ChronusQ, feel free to contact me or my PI (xsli@uw dot edu)
 
 For a full list of contributions, publications and presentations, please refer to my [CV]({{ site.url }}/_assets/CV.pdf)
