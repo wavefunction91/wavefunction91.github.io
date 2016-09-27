@@ -28,5 +28,5 @@ github_username:  wavefunction91
 include: ['_assets']
 
 # Build settings
-markdown: maruku
+markdown: kramdown
 theme: minima
