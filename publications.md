@@ -7,7 +7,7 @@ permalink: /pubs/
 The most up-to-date list of my accepted and submitted
 publications, please refer to my [CV]({{ site.url }}/_assets/CV.pdf).
 A semi-up-to-date BibTeX file with all of my in-press articles may be
-found [here]({{ site.url  }}/_assents/DBWY.bib). The links at the end
+found [here]({{ site.url  }}/_assets/DBWY.bib). The links at the end
 of the in-press articles are the cite-keys for the BibTeX entries and
 will forward you to the DOI.org link for the publication.
 <br>
