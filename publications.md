@@ -18,6 +18,7 @@ will forward you to the DOI.org link for the publication.
 [2] **Williams-Young, D. B.**; Egidi, F.; Li, X.; 
 "Relativistic Two-Component Particle-Particle Tamm-Dancoff Approximation", 
 *J. Chem. Theor. Comp.*, **2016**, Accepted.
+[[DBWY16\_Accepted1]](http://doi.org/10.1021/acs.jctc.6b00833)
 <br> 
 <br> 
 
