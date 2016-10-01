@@ -2,7 +2,7 @@
 layout: post
 title:  "Relativistic pp-TDA JCTC Article Accepted and Published Online"
 date:   2016-10-01 09:34:00 -0700
-categories: publication relativity pp-TDA JCTC
+categories: [publication,relativity,pp-TDA JCTC]
 permalink: /posts/rel-pp-TDA
 ---
 
