@@ -6,6 +6,9 @@ categories: [publication,relativity,pp-TDA JCTC]
 permalink: /posts/rel-pp-TDA
 ---
 
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
 
 My recent work on the extension of the particle--particle Tamm--Dancoff
 approximation (pp-TDA) to two--component relativistic Hamiltonians has been
@@ -34,7 +37,7 @@ analysis of excited state FSS very difficult as the energetic effects may be on
 the same order or larger than those of the FSS themselves. It so happens that,
 especially for molecules with triplet ground states, the +2 cation is a singlet.
 That is not do say that spin contamination is not present (as it should be in
-relativistic hamiltonians as it does not commute with S^2), but the effects are
+relativistic hamiltonians as it does not commute with \\(S^2\\) ), but the effects are
 negligible. Thus we were able to accurately capture the FSS in molecular oxygen
 with the pp-TDA, a feat impractical using the ph-RPA/TDA. 
 
