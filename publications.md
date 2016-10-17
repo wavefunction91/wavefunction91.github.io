@@ -17,8 +17,13 @@ will forward you to the DOI.org link for the publication.
 
 [2] **Williams-Young, D. B.**; Egidi, F.; Li, X.; 
 "Relativistic Two-Component Particle-Particle Tamm-Dancoff Approximation", 
-*J. Chem. Theor. Comp.*, **2016**, Accepted.
+*J. Chem. Theor. Comp.*, **2016**, Just Accepted.
 [[DBWY16\_Accepted1]](http://doi.org/10.1021/acs.jctc.6b00833)
+
+[3] **Williams-Young, D. B.**; Goings, J.; Li, X.; 
+"Accelerating Real--Time Time--Dependent Density Functional Theory with a Chebyshev Expansion of the Quantum Propagator", 
+*J. Chem. Theor. Comp.*, **2016**, Just Accepted.
+[[DBWY16\_Accepted2]](http://doi.org/10.1021/acs.jctc.6b00693)
 <br> 
 <br> 
 
@@ -36,9 +41,6 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
-**Williams-Young, D. B.**; Goings, J.; Li, X.; 
-"Accelerating Real--Time Time--Dependent Density Functional Theory with a Chebyshev Expansion of the Quantum Propagator", 
-*J. Chem. Theor. Comp.*, **2016**, Submitted.
 
 **Williams-Young, D. B.**; Lingerfelt, D. B.; Petrone, A.; Li, X.; 
 "Ab Initio Surface Hopping Dynamics within the Particle--Particle Tamm--Dancoff Approximation", 
