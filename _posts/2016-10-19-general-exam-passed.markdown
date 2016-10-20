@@ -1,10 +1,10 @@
---
+---
 layout: post
 title:  "General Exam Passed"
 date:   2016-10-19 19:32:00 -0700
 categories: [graduate school, general exam, PhD]
 permalink: /posts/gen-exam-passed
---
+---
 
 
 Today, I recieved a full pass on my General Exam which allows
