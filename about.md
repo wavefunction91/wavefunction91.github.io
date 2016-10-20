@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Main]({{sit.url}}/_assets/profile.jpg)
 
-David Williams, Graduate Student, Department of Chemistry, University of Washington.
+David Williams, Ph.D Candidate, Department of Chemistry, University of Washington.
 
 I'm currently pursuing a Ph.D. in Chemistry at the University of Washington under the supervision
 of Professor [Xiaosong Li](http://depts.washington.edu/ligroup). 
