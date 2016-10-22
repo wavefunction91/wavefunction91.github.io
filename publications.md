@@ -48,4 +48,4 @@ will forward you to the DOI.org link for the publication.
 
 Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
-*J. Chem. Phys. Comm.*, **2016**, Submitted.
+*J. Phys. Chem. Lett.*, **2016**, Submitted.
