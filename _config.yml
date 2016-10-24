@@ -15,6 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: David Williams-Young
 email: dbwy@u.washington.edu
+altemail: wavefunction91@gmail.com
+gpgfgr: "A11E 7248 EF13 C14A 1A8D  85E0 8160 2572 73C4 F947"
 description: > # this means to ignore newlines until "baseurl:"
         David Williams-Young,
         Ph.D Candidate,
