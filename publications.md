@@ -42,9 +42,10 @@ will forward you to the DOI.org link for the publication.
 **Submitted Manusripts:**
 
 
-**Williams-Young, D. B.**; Lingerfelt, D. B.; Petrone, A.; Li, X.; 
-"Ab Initio Surface Hopping Dynamics within the Particle--Particle Tamm--Dancoff Approximation", 
-*J. Chem. Phys. Comm.*, **2016**, Submitted.
+[//]: <> ( **Williams-Young, D. B.**; Lingerfelt, D. B.; Petrone, A.; Li, X.;) 
+[//]: <> ("Ab Initio Surface Hopping Dynamics within the Particle--Particle Tamm--Dancoff Approximation",) 
+[//]: <> (*J. Chem. Phys. Comm.*, **2016**, Submitted.)
+
 
 Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
