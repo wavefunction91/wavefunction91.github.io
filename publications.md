@@ -24,6 +24,11 @@ will forward you to the DOI.org link for the publication.
 "Accelerating Real--Time Time--Dependent Density Functional Theory with a Chebyshev Expansion of the Quantum Propagator", 
 *J. Chem. Theor. Comp.*, **2016**, Just Accepted.
 [[DBWY16\_Accepted2]](http://doi.org/10.1021/acs.jctc.6b00693)
+
+[4] Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
+"Ab Initio Transient Vibrational Spectral Analysis", 
+*J. Phys. Chem. Lett.*, **2016**, Just Accepted.
+[[DBWY16\_Accepted3]](http://doi.org/10.1021/acs.jpclett.6b02292)
 <br> 
 <br> 
 
@@ -39,7 +44,7 @@ will forward you to the DOI.org link for the publication.
 
 
 
-**Submitted Manusripts:**
+[//]: <> (**Submitted Manusripts:**)
 
 
 [//]: <> ( **Williams-Young, D. B.**; Lingerfelt, D. B.; Petrone, A.; Li, X.;) 
@@ -47,6 +52,3 @@ will forward you to the DOI.org link for the publication.
 [//]: <> (*J. Chem. Phys. Comm.*, **2016**, Submitted.)
 
 
-Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
-"Ab Initio Transient Vibrational Spectral Analysis", 
-*J. Phys. Chem. Lett.*, **2016**, Submitted.
