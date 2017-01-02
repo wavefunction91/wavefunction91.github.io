@@ -6,9 +6,9 @@ permalink: /about/
 ![Main]({{site.url}}/_assets/profile.jpg)
 
 David Williams, Ph.D Candidate, Department of Chemistry, University of Washington.
-<br>[Public GPG]({{site.url}}/_assets/dbwy_pub.txt) &nbsp;&nbsp; 
+<br>[Public PGP]({{site.url}}/_assets/dbwy_pub.txt) &nbsp;&nbsp; 
 [PGPMIT](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8160257273C4F947) &nbsp;&nbsp;
-(GPG Fingerprint: {{site.gpgfgr}})
+(PGP Fingerprint: {{site.gpgfgr}})
 
 I'm currently pursuing a Ph.D. in Chemistry at the University of Washington under the supervision
 of Professor [Xiaosong Li](http://depts.washington.edu/ligroup). 
