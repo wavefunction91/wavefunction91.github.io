@@ -42,11 +42,10 @@ will forward you to the DOI.org link for the publication.
 
 
 
-[//]: <> (**Submitted Manusripts:**)
+**Submitted Manusripts:**
 
-
-[//]: <> ( **Williams-Young, D. B.**; Lingerfelt, D. B.; Petrone, A.; Li, X.;) 
-[//]: <> ("Ab Initio Surface Hopping Dynamics within the Particle--Particle Tamm--Dancoff Approximation",) 
-[//]: <> (*J. Chem. Phys. Comm.*, **2016**, Submitted.)
+Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.; 
+"Ab Initio Transient Raman Analysis", 
+*J. Phys. Chem. A.*, **2017**, Submitted.
 
 
