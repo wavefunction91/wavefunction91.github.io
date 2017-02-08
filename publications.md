@@ -21,7 +21,7 @@ will forward you to the DOI.org link for the publication.
 [4] Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
 *J. Phys. Chem. Lett.*, **2016**, 7, 4501--4508.
-[[DBWY16\_JCPL4501]](http://doi.org/10.1021/acs.jpclett.6b02292)
+[[DBWY16\_JPCL4501]](http://doi.org/10.1021/acs.jpclett.6b02292)
 
 [3] **Williams-Young, D. B.**; Goings, J.; Li, X.; 
 "Accelerating Real--Time Time--Dependent Density Functional Theory with a Chebyshev Expansion of the Quantum Propagator", 
