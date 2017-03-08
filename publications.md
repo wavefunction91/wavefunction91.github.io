@@ -48,4 +48,7 @@ Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.;
 "Ab Initio Transient Raman Analysis", 
 *J. Phys. Chem. A.*, **2017**, Submitted.
 
+Egidi, F.; **Williams-Young, D. B.**; Baiardi, A.; Bloino, J.; Scalmani, G.; Frisch, M.; Li, X.; Barone, V.;
+"Effective Inclusion of Mechanical and Electrical Anharmonicity in Excited Electronic States: the VPT2-TDDFT Route"
+*J. Chem. Theor. Comp.*, **2017**, Submitted.
 
