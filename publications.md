@@ -52,3 +52,6 @@ Egidi, F.; **Williams-Young, D. B.**; Baiardi, A.; Bloino, J.; Scalmani, G.; Fri
 "Effective Inclusion of Mechanical and Electrical Anharmonicity in Excited Electronic States: the VPT2-TDDFT Route"
 *J. Chem. Theor. Comp.*, **2017**, Submitted.
 
+Van Beeumen, R.; **Williams-Young, D.B.**; Kasper, J.; Yang, C.; Ng, E.; Li, X.;
+"A Model Order Reduction Algorithm for Estimating the Absorption Spectrum"
+*J. Chem. Theor. Comp.*, **2017**, Submitted.
