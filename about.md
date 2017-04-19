@@ -15,8 +15,8 @@ of Professor [Xiaosong Li](http://depts.washington.edu/ligroup).
 My graduate research primarily centers around methods development in the
 field of quantum chemistry, specifically electronic structure theory. During my time at the University
 of Washington, I've had the privlidge of contributing to several quantum chemistry software packages, namely
-Chronus Quantum (ChrounsQ) and Gaussian. Currently, I am a software fellow through the Molecular Sciences
-Software Institute ([MolSSI](http://molssi.org)).
+Chronus Quantum (ChrounsQ) and Gaussian. Currently, I am a [software fellow](http://molssi.org/2017-phase-i-molssi-software-fellows/) 
+through the Molecular Sciences Software Institute ([MolSSI](http://molssi.org)).
 
 I am currently the principle software developer for the [Chronus Quantum (ChronusQ)](http://www.chronusquantum.org) 
 software package. ChronusQ is an open-source quantum chemistry code that focuses primarily on explicly
