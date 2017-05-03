@@ -18,6 +18,10 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[5] Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.; 
+"Ab Initio Transient Raman Analysis", 
+*J. Phys. Chem. A.*, **2017**, Just Accepted. [[DOI]](http://dx.doi.org/10.1021/acs.chemmater.5b03488)
+
 [4] Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
 *J. Phys. Chem. Lett.*, **2016**, 7, 4501--4508.
@@ -43,10 +47,6 @@ will forward you to the DOI.org link for the publication.
 
 
 **Submitted Manusripts:**
-
-Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.; 
-"Ab Initio Transient Raman Analysis", 
-*J. Phys. Chem. A.*, **2017**, Submitted.
 
 Egidi, F.; **Williams-Young, D. B.**; Baiardi, A.; Bloino, J.; Scalmani, G.; Frisch, M.; Li, X.; Barone, V.;
 "Effective Inclusion of Mechanical and Electrical Anharmonicity in Excited Electronic States: the VPT2-TDDFT Route"
