@@ -10,6 +10,9 @@ A semi-up-to-date BibTeX file with all of my in-press articles may be
 found [here]({{ site.url  }}/_assets/DBWY.bib). The links at the end
 of the in-press articles are the cite-keys for the BibTeX entries and
 will forward you to the DOI.org link for the publication.
+
+[Google Scholar](https://scholar.google.com/citations?user=kBmecvkAAAAJ)<br>
+[ORCHID](http://orcid.org/0000-0003-2735-3706)
 <br>
 <br>
 
