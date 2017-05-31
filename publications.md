@@ -27,7 +27,7 @@ will forward you to the DOI.org link for the publication.
 
 [5] Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.; 
 "Ab Initio Transient Raman Analysis", 
-*J. Phys. Chem. A.*, **2017**, Just Accepted. [[DOI]](http://doi.org/10.1021/acs.jpca.7b02905)
+*J. Phys. Chem. A.*, **2017**, 121(20), 3958--3965. [[DBWY17\_JPCA3958]](http://doi.org/10.1021/acs.jpca.7b02905)
 
 [4] Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
