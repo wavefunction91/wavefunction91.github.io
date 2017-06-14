@@ -23,7 +23,7 @@ will forward you to the DOI.org link for the publication.
 
 [6] Egidi, F.; **Williams-Young, D. B.**; Baiardi, A.; Bloino, J.; Scalmani, G.; Frisch, M.; Li, X.; Barone, V.;
 "Effective Inclusion of Mechanical and Electrical Anharmonicity in Excited Electronic States: the VPT2-TDDFT Route"
-*J. Chem. Theor. Comp.*, **2017**, Just Accepted. [[DOI]](http://doi.org/10.1021/acs.jctc.7b00218)
+*J. Chem. Theor. Comp.*, **2017**, 13(6), 2789--2803. [[DBWY17\_JCTC2789]](http://doi.org/10.1021/acs.jctc.7b00218)
 
 [5] Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.; 
 "Ab Initio Transient Raman Analysis", 
