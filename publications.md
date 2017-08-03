@@ -59,3 +59,7 @@ will forward you to the DOI.org link for the publication.
 Van Beeumen, R.; **Williams-Young, D.B.**; Kasper, J.; Yang, C.; Ng, E.; Li, X.;
 "A Model Order Reduction Algorithm for Estimating the Absorption Spectrum"
 *J. Chem. Theor. Comp.*, **2017**, Submitted. [[arXiv/1704.05923]](http://arxiv.org/abs/1704.05923)
+
+Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
+"An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
+*J. Chem. Theor. Comp.*, **2017**, Submitted.
