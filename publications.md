@@ -21,6 +21,10 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[7] Van Beeumen, R.; **Williams-Young, D.B.**; Kasper, J.; Yang, C.; Ng, E.; Li, X.;
+"A Model Order Reduction Algorithm for Estimating the Absorption Spectrum"
+*J. Chem. Theor. Comp.*, **2017**, Accepted. [[arXiv/1704.05923]](http://arxiv.org/abs/1704.05923) [[JCTC_DOI]](http://doi.org/10.1021/acs.jctc.7b00402)
+
 [6] Egidi, F.; **Williams-Young, D. B.**; Baiardi, A.; Bloino, J.; Scalmani, G.; Frisch, M.; Li, X.; Barone, V.;
 "Effective Inclusion of Mechanical and Electrical Anharmonicity in Excited Electronic States: the VPT2-TDDFT Route"
 *J. Chem. Theor. Comp.*, **2017**, 13(6), 2789--2803. [[DBWY17\_JCTC2789]](http://doi.org/10.1021/acs.jctc.7b00218)
@@ -55,10 +59,6 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
-
-Van Beeumen, R.; **Williams-Young, D.B.**; Kasper, J.; Yang, C.; Ng, E.; Li, X.;
-"A Model Order Reduction Algorithm for Estimating the Absorption Spectrum"
-*J. Chem. Theor. Comp.*, **2017**, Submitted. [[arXiv/1704.05923]](http://arxiv.org/abs/1704.05923)
 
 Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
 "An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
