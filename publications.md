@@ -23,11 +23,11 @@ will forward you to the DOI.org link for the publication.
 
 [8] Barclay, M. S.; Quincy, T. J.; **Williams-Young, D.B.**; Caricato, M.; Elles, C. G.;
 "Accurate Assignments of Excited-State Resonance Raman Spectra: A Benchmark Study Combining Experiment and Theory"
-*J. Phys. Chem. A.*, **2017**, Accepted. [[DOI]](http://doi.org/10.1021/acs.jpca.7b09467)
+*J. Phys. Chem. A.*, **2017**, 121(41), 7937--7946. [[DBWY17_JPCA7937]](http://doi.org/10.1021/acs.jpca.7b09467)
 
 [7] Van Beeumen, R.; **Williams-Young, D.B.**; Kasper, J.; Yang, C.; Ng, E.; Li, X.;
 "A Model Order Reduction Algorithm for Estimating the Absorption Spectrum"
-*J. Chem. Theor. Comp.*, **2017**, Accepted. [[arXiv/1704.05923]](http://arxiv.org/abs/1704.05923) [[JCTC_DOI]](http://doi.org/10.1021/acs.jctc.7b00402)
+*J. Chem. Theor. Comp.*, **2017**, 13(10), 4950--4961. [[arXiv/1704.05923]](http://arxiv.org/abs/1704.05923) [[DBWY17_JCTC4950]](http://doi.org/10.1021/acs.jctc.7b00402)
 
 [6] Egidi, F.; **Williams-Young, D. B.**; Baiardi, A.; Bloino, J.; Scalmani, G.; Frisch, M.; Li, X.; Barone, V.;
 "Effective Inclusion of Mechanical and Electrical Anharmonicity in Excited Electronic States: the VPT2-TDDFT Route"
