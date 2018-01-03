@@ -21,6 +21,10 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[9] Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
+"An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
+*J. Chem. Theor. Comp.*, **2018**, Just Accepted. [[DOI]](http://doi.org/10.1021/acs.jctc.7b00832)
+
 [8] Barclay, M. S.; Quincy, T. J.; **Williams-Young, D.B.**; Caricato, M.; Elles, C. G.;
 "Accurate Assignments of Excited-State Resonance Raman Spectra: A Benchmark Study Combining Experiment and Theory"
 *J. Phys. Chem. A.*, **2017**, 121(41), 7937--7946. [[DBWY17_JPCA7937]](http://doi.org/10.1021/acs.jpca.7b09467)
@@ -64,6 +68,3 @@ will forward you to the DOI.org link for the publication.
 **Submitted Manusripts:**
 
 
-Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
-"An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
-*J. Chem. Theor. Comp.*, **2017**, Submitted.
