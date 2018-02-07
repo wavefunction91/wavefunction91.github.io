@@ -67,4 +67,7 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
+Kasper, J.; **Williams-Young, D. B.**; Vecharynski, E.; Yang, C.; Li, X.;
+"A Well-Tempered Hybrid Method of Davidson and GPLHR for Solving Challenging TDDFT Systems",
+*J. Chem. Theor. Comp.*, **2018**, Submitted.
 
