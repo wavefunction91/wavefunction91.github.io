@@ -23,7 +23,7 @@ will forward you to the DOI.org link for the publication.
 
 [9] Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
 "An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
-*J. Chem. Theor. Comp.*, **2018**, Just Accepted. [[DOI]](http://doi.org/10.1021/acs.jctc.7b00832)
+*J. Chem. Theor. Comp.*, **2018**, 14(2), 588--596. [[DBWY18_JCTC588]](http://doi.org/10.1021/acs.jctc.7b00832)
 
 [8] Barclay, M. S.; Quincy, T. J.; **Williams-Young, D.B.**; Caricato, M.; Elles, C. G.;
 "Accurate Assignments of Excited-State Resonance Raman Spectra: A Benchmark Study Combining Experiment and Theory"
