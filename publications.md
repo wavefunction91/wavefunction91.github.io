@@ -21,6 +21,10 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[10] Kasper, J.; **Williams-Young, D. B.**; Vecharynski, E.; Yang, C.; Li, X.;
+"A Well-Tempered Hybrid Method for Solving Challenging TDDFT Systems",
+*J. Chem. Theor. Comp.*, **2018**, Just Accepted. [[DOI]](http://doi.org/10.1021/acs.jctc.8b00141)
+
 [9] Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
 "An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
 *J. Chem. Theor. Comp.*, **2018**, 14(2), 588--596. [[DBWY18_JCTC588]](http://doi.org/10.1021/acs.jctc.7b00832)
@@ -67,7 +71,4 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
-Kasper, J.; **Williams-Young, D. B.**; Vecharynski, E.; Yang, C.; Li, X.;
-"A Well-Tempered Hybrid Method of Davidson and GPLHR for Solving Challenging TDDFT Systems",
-*J. Chem. Theor. Comp.*, **2018**, Submitted.
 
