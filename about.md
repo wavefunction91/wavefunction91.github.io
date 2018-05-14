@@ -5,18 +5,20 @@ permalink: /about/
 ---
 ![Main]({{site.url}}/_assets/profile.jpg)
 
-David Williams, Ph.D Candidate, Department of Chemistry, University of Washington.
+David Williams, Ph.D., Department of Chemistry, University of Washington.
 <br>[Public PGP]({{site.url}}/_assets/dbwy_pub.txt) &nbsp;&nbsp; 
 [PGPMIT](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8160257273C4F947) &nbsp;&nbsp;
 (PGP Fingerprint: {{site.gpgfgr}})
 
-I'm currently pursuing a Ph.D. in Chemistry at the University of Washington under the supervision
+I recieved my Ph.D. in Chemistry at the University of Washington in 2018 under the supervision
 of Professor [Xiaosong Li](http://depts.washington.edu/ligroup). 
-My graduate research primarily centers around methods development in the
+My graduate research primarily centered around methods development in the
 field of quantum chemistry, specifically electronic structure theory. During my time at the University
-of Washington, I've had the privlidge of contributing to several quantum chemistry software packages, namely
+of Washington, I had the privlidge of contributing to several quantum chemistry software packages, namely
 Chronus Quantum (ChrounsQ) and Gaussian. Currently, I am a [software fellow](http://molssi.org/2018-phase-ii-molssi-software-fellows/) 
 through the Molecular Sciences Software Institute ([MolSSI](http://molssi.org)).
+
+
 
 I am currently the principle software developer for the [Chronus Quantum (ChronusQ)](http://www.chronusquantum.org) 
 software package. ChronusQ is an open-source quantum chemistry code that focuses primarily on explicly
