@@ -21,9 +21,13 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[11] Petrone, A.; **Williams-Young, D. B.**; Sun, S.; Stetina, T. F.; Li, X.;
+"An Efficient Implementation of Two-Component Relativistic Density Functional Theory with Torque-Free Auxiliary Variables",
+*Eur. Phys. J. B*, Just Accepted.
+
 [10] Kasper, J.; **Williams-Young, D. B.**; Vecharynski, E.; Yang, C.; Li, X.;
 "A Well-Tempered Hybrid Method for Solving Challenging TDDFT Systems",
-*J. Chem. Theor. Comp.*, **2018**, Just Accepted. [[DOI]](http://doi.org/10.1021/acs.jctc.8b00141)
+*J. Chem. Theor. Comp.*, **2018**, 14(4), 2034--2041. [[DBWY18_JCTC2034]](http://doi.org/10.1021/acs.jctc.8b00141)
 
 [9] Lestrange, P.; **Williams-Young, D.B.**; Jimenez--Hoyos, C.; Li, X.;
 "An Efficient Implementaion of Variation After Projection Generalized Hartree--Fock"
@@ -31,7 +35,7 @@ will forward you to the DOI.org link for the publication.
 
 [8] Barclay, M. S.; Quincy, T. J.; **Williams-Young, D.B.**; Caricato, M.; Elles, C. G.;
 "Accurate Assignments of Excited-State Resonance Raman Spectra: A Benchmark Study Combining Experiment and Theory"
-*J. Phys. Chem. A.*, **2017**, 121(41), 7937--7946. [[DBWY17_JPCA7937]](http://doi.org/10.1021/acs.jpca.7b09467)
+*J. Phys. Chem. A*, **2017**, 121(41), 7937--7946. [[DBWY17_JPCA7937]](http://doi.org/10.1021/acs.jpca.7b09467)
 
 [7] Van Beeumen, R.; **Williams-Young, D.B.**; Kasper, J.; Yang, C.; Ng, E.; Li, X.;
 "A Model Order Reduction Algorithm for Estimating the Absorption Spectrum"
@@ -43,7 +47,7 @@ will forward you to the DOI.org link for the publication.
 
 [5] Petrone, A.; **Williams-Young, D. B.**; Lingerfelt, D. B.; Li, X.; 
 "Ab Initio Transient Raman Analysis", 
-*J. Phys. Chem. A.*, **2017**, 121(20), 3958--3965. [[DBWY17\_JPCA3958]](http://doi.org/10.1021/acs.jpca.7b02905)
+*J. Phys. Chem. A*, **2017**, 121(20), 3958--3965. [[DBWY17\_JPCA3958]](http://doi.org/10.1021/acs.jpca.7b02905)
 
 [4] Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
