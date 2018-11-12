@@ -16,6 +16,10 @@ will forward you to the DOI.org link for the publication.
 <br>
 <br>
 
+
+[**Ph.D. Thesis**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
+
+
 [//]: <>(**Accepted Manuscripts:**)
 
 
