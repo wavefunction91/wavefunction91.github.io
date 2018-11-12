@@ -22,16 +22,8 @@ through the Molecular Sciences Software Institute ([MolSSI](http://molssi.org)).
 Currently I am a postdoctoral scholar in the 
 [Scalable Solvers Group (SSG)](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/) in the 
 [Computational Research Division (CRD)](https://crd.lbl.gov/)
-at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), where I am advised by Dr. Chao Yang.
-
-
-
-#I am currently the principle software developer for the [Chronus Quantum (ChronusQ)](http://www.chronusquantum.org) 
-#software package. ChronusQ is an open-source quantum chemistry code that focuses primarily on explicly
-#time-dependent and unconventional SCF and post-SCF methods such as relativistic hamiltonians and the
-#particle-particle random phase approximation (pp-RPA). The source of the public release of ChronusQ may be found
-#at {% include icon-github.html username="liresearchgroup" %} / 
-#[chronusq\_public](http://www.github.com/liresearchgroup/chronusq_public). To gain access to the development
-#branch of ChronusQ, feel free to contact me or Xiaosong Li (xsli@uw dot edu)
+at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), where I am advised by Dr. Chao Yang. My current 
+projects center around massively parallel algorithms for eigenvalue problems which arise in electrionic structure
+theory.
 
 For a full list of contributions, publications, presentations, and awards, please refer to my [CV]({{ site.url }}/_assets/CV.pdf)

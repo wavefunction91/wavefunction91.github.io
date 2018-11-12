@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David Williams-Young
-email: dbwy@u.washington.edu
+email: dbwy@lbl.gov
 altemail: wavefunction91@gmail.com
 gpgfgr: "A11E 7248 EF13 C14A 1A8D  85E0 8160 2572 73C4 F947"
 description: > # this means to ignore newlines until "baseurl:"
-        David Williams-Young,
-        Ph.D.,
-        Department of Chemistry,
-        University of Washington
+        David Williams-Young, Ph.D.
+        Scalable Solvers Group,
+        Computational Research Division,
+        Lawrence Berkeley National Lab
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wavefunction91.github.io" # the base hostname & protocol for your site
 twitter_username: wavefunction91
