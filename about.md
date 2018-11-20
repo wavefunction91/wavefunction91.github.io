@@ -5,10 +5,19 @@ permalink: /about/
 ---
 ![Main]({{site.url}}/_assets/profile.jpg)
 
-David Williams--Young, Ph.D., Department of Chemistry, University of Washington.
+David Williams--Young, Ph.D., Scalable Solvers Group, Department of Applied Mathematics, Computational Research Division, Lawrence Berkeley National Lab 
 <br>[Public PGP]({{site.url}}/_assets/dbwy_pub.txt) &nbsp;&nbsp; 
 [PGPMIT](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8160257273C4F947) &nbsp;&nbsp;
 (PGP Fingerprint: {{site.gpgfgr}})
+
+
+Currently I am a postdoctoral scholar in the 
+[Scalable Solvers Group (SSG)](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/) in the 
+[Computational Research Division (CRD)](https://crd.lbl.gov/)
+at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), where I am advised by Chao Yang. My current 
+projects center around massively parallel algorithms for eigenvalue problems which arise in electrionic structure
+theory.
+
 
 I recieved my Ph.D. in Chemistry at the University of Washington in 2018 under the supervision
 of Professor [Xiaosong Li](http://depts.washington.edu/ligroup). 
@@ -19,11 +28,5 @@ Chronus Quantum (ChrounsQ) and Gaussian. From 2017-2018, I was a [software fello
 through the Molecular Sciences Software Institute ([MolSSI](http://molssi.org)).
 
 
-Currently I am a postdoctoral scholar in the 
-[Scalable Solvers Group (SSG)](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/) in the 
-[Computational Research Division (CRD)](https://crd.lbl.gov/)
-at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), where I am advised by Dr. Chao Yang. My current 
-projects center around massively parallel algorithms for eigenvalue problems which arise in electrionic structure
-theory.
 
 For a full list of contributions, publications, presentations, and awards, please refer to my [CV]({{ site.url }}/_assets/CV.pdf)
