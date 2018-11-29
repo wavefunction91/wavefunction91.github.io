@@ -25,6 +25,10 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[12] Sun, S.; **Williams-Young D. B.**; Stetina, T. F.; Li, X.;
+"Generalized Hartree-Fock with a Non-perturbative Treatment of Strong Magnetic Fields: Application to Molecular Spin Phase Transitions",
+*J. Chem. Theor. Comp.*, **2018**, Just Accepted. [[DBWY18_JA]](https://doi.org/10.1021/acs.jctc.8b01140)
+
 [11] Petrone, A.; **Williams-Young, D. B.**; Sun, S.; Stetina, T. F.; Li, X.;
 "An Efficient Implementation of Two-Component Relativistic Density Functional Theory with Torque-Free Auxiliary Variables",
 *Eur. Phys. J. B*, **2018**, 91(7), 169. [[DBWY18_EPJB169]](https://doi.org/10.1140/epjb/e2018-90170-1) 
