@@ -38,8 +38,25 @@ tensorial quaternion algorithms. The novelty of HAXX is that
 it contained an optimized implementation of quaternionic
 matrix multiplication for AVX / AVX2. 
 
-HAXX was the product of my MolSSI software fellowship and is
-still being developed.
+HAXX was the product of my MolSSI software fellowship in 2017--2018 
+and is still being developed.
+
+## PEXSI
+- Contributor
+- [Project Page](https://www.pexsi.org)
+
+The Pole EXpansion and Selected Inversion (PEXSI) method is a fast method for
+electronic structure calculation based on Kohn-Sham density functional theory.
+It efficiently evaluates certain selected elements of matrix functions, e.g.,
+the Fermi-Dirac function of the KS Hamiltonian, which yields a density matrix.
+It can be used as an alternative to diagonalization methods for obtaining the
+density, energy and forces in electronic structure calculations. The PEXSI
+library is written in C++, and uses message passing interface (MPI) to
+parallelize the computation on distributed memory computing systems and achieve
+scalability on more than 10,000 processors.
+
+My contribution to PEXSI has been in the development of the modern CMake build 
+system.
 
 
 
