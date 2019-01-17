@@ -43,7 +43,7 @@ and is still being developed.
 
 ## PEXSI
 - Contributor
-- [Project Page](https://www.pexsi.org)
+- [Project Page](https://pexsi.readthedocs.io/en/latest/)
 
 The Pole EXpansion and Selected Inversion (PEXSI) method is a fast method for
 electronic structure calculation based on Kohn-Sham density functional theory.
