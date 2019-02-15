@@ -11,7 +11,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib). The links at the end
 of the in-press articles are the cite-keys for the BibTeX entries and
 will forward you to the DOI.org link for the publication.
 
-[Google Scholar](https://scholar.google.com/citations?user=kBmecvkAAAAJ)<br>
+[Google Scholar](https://scholar.google.com/citations?user=lBCHkQoAAAAJ)<br>
 [ORCHID](http://orcid.org/0000-0003-2735-3706)
 <br>
 <br>
@@ -95,4 +95,11 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
+Hoyer, C.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
+"Embedding Non-Collinear Two-Component Electronic Structure in a Collinear Quantum Environment"
+*J. Chem. Phys.*, **2019** Submitted.
+
+Sun, S.; **Williams-Young, D.B.**; Li, X.;
+"A Non-Perturbative Ab Initio Method for Computing Magnetic Circular Dichroism Spectra"
+*J. Chem. Theor. Comp.* **2019** Submitted.
 
