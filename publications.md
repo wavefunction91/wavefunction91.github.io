@@ -107,3 +107,7 @@ Sun, S.; **Williams-Young, D.B.**; Li, X.;
 "A Non-Perturbative Ab Initio Method for Computing Magnetic Circular Dichroism Spectra"
 *J. Chem. Theor. Comp.* **2019** Submitted.
 
+
+**Talks:**
+
+[pdf]({{ site.url  }}/_assets/aps-march19.pdf)
