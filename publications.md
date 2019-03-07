@@ -108,7 +108,7 @@ Sun, S.; **Williams-Young, D.B.**; Li, X.;
 *J. Chem. Theor. Comp.* **2019** Submitted.
 
 
-**Talk Slices:**
+**Talk Slides:**
 
 APS March Meeting 2019 (05-March-2019); 
 "A General Model Order Reduction Scheme for the Evaluation of Spectroscopic Properties and Excited States"
