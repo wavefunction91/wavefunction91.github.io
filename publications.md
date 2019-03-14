@@ -95,6 +95,12 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
+**Williams-Young, D.B.**; Li, X.;
+"On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
+[[arXiv/1903.05575]](http:arxiv.org/abs/1903.05575)
+[[pdf]]({{ site.url  }}/_assets/papers/1903.05575.pdf)
+
+
 Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
 *J. Chem. Theor. Comp.*, **2019** Submitted. [[arXiv/1902.06016]](http://arxiv.org/abs/1902.06016)
