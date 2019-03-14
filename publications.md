@@ -97,7 +97,7 @@ will forward you to the DOI.org link for the publication.
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
-[[arXiv/1903.05575]](http:arxiv.org/abs/1903.05575)
+[[arXiv/1903.05575]](http://arxiv.org/abs/1903.05575)
 [[pdf]]({{ site.url  }}/_assets/papers/1903.05575.pdf)
 
 
