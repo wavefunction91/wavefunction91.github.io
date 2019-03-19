@@ -95,8 +95,14 @@ will forward you to the DOI.org link for the publication.
 
 **Submitted Manusripts:**
 
+Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
+"Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
+*ChemPhotoChem*, **2019** Submitted.
+
+
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
+*ACM Trans. Math. Softw.* **2019** Submitted.
 [[arXiv/1903.05575]](http://arxiv.org/abs/1903.05575)
 [[pdf]]({{ site.url  }}/_assets/papers/1903.05575.pdf)
 
