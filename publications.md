@@ -25,6 +25,17 @@ will forward you to the DOI.org link for the publication.
 
 **In-Press Manuscripts (Reverse Chronological):**
 
+[14] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
+"Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
+*J. Chem. Theor. Comp.*, **2019** Just Accepted. [[arXiv/1902.06016]](http://arxiv.org/abs/1902.06016)
+[[doi]](https://doi.org/10.1021/acs.jctc.9b00172)
+
+
+[13] Sun, S.; **Williams-Young, D.B.**; Li, X.;
+"An Ab Initio Linear Response Method for Computing Magnetic Circular Dichroism Spectra with Non-Perturbative Treatment of Magnetic Field"
+*J. Chem. Theor. Comp.* **2019** Just Accepted. 
+[[doi]](https://doi.org/10.1021/acs.jctc.9b00095)
+
 [12] Sun, S.; **Williams-Young D. B.**; Stetina, T. F.; Li, X.;
 "Generalized Hartree-Fock with a Non-perturbative Treatment of Strong Magnetic Fields: Application to Molecular Spin Phase Transitions",
 *J. Chem. Theor. Comp.*, **2019**, 15(1), 348--356 [[DBWY19_JCTC348]](https://doi.org/10.1021/acs.jctc.8b01140)
@@ -107,17 +118,10 @@ Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
 [[pdf]]({{ site.url  }}/_assets/papers/1903.05575.pdf)
 
 
-Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
-"Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
-*J. Chem. Theor. Comp.*, **2019** Submitted. [[arXiv/1902.06016]](http://arxiv.org/abs/1902.06016)
 
 Hoyer, C.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
 "Embedding Non-Collinear Two-Component Electronic Structure in a Collinear Quantum Environment"
 *J. Chem. Phys.*, **2019** Submitted.
-
-Sun, S.; **Williams-Young, D.B.**; Li, X.;
-"A Non-Perturbative Ab Initio Method for Computing Magnetic Circular Dichroism Spectra"
-*J. Chem. Theor. Comp.* **2019** Submitted.
 
 
 **Talk Slides:**
