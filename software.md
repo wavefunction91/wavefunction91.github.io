@@ -7,7 +7,7 @@ permalink: /software/
 ## Chronus Quantum (ChronusQ)
 - Principle Developer / Maintainer  2014-2018
 - Contributor 2018-present
-- [Github](https://github.com/liresearchgroup/chronusq_public):
+- [Github](https://github.com/liresearchgroup/chronusq_public)
 
 ChronusQ is a production quantum chemistry software package 
 written in C++11 specializing in electronic dynamics and 
@@ -17,6 +17,15 @@ currently maintained by the Li Research Group.
 
 I will contribute to the project, primarily in the context of
 novel solvers for diagoanlization / inverse problems.
+
+## NWChemEx
+- Contributor 2018-present
+- [ECP Website](https://www.exascaleproject.org/project/nwchemex-tackling-chemical-materials-and-biomolecular-challenges-in-exascale/)
+
+NWChemEx is an ECP funded quantum chemistry code. My contributions have
+been in the development of their density functional theory implementation
+as well as in the integration of scalable linear algebra solvers suitable
+for exascale computing.
 
 ## CXXBLACS
 - Developer / Maintainer
@@ -42,7 +51,7 @@ HAXX was the product of my MolSSI software fellowship in 2017--2018
 and is still being developed.
 
 ## PEXSI
-- Contributor
+- Contributor 2018-present
 - [Project Page](https://pexsi.readthedocs.io/en/latest/)
 
 The Pole EXpansion and Selected Inversion (PEXSI) method is a fast method for
