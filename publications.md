@@ -27,7 +27,8 @@ will forward you to the DOI.org link for the publication.
 
 [15] Hoyer, C.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
 "Embedding Non-Collinear Two-Component Electronic Structure in a Collinear Quantum Environment"
-*J. Chem. Phys.*, **2019** Accepted.
+*J. Chem. Phys.*, **2019**, 150(17), 174114.
+[[doi]](https://doi.org/10.1063/1.5092628)
 
 [14] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
