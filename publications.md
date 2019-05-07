@@ -12,7 +12,8 @@ of the in-press articles are the cite-keys for the BibTeX entries and
 will forward you to the DOI.org link for the publication.
 
 [Google Scholar](https://scholar.google.com/citations?user=lBCHkQoAAAAJ)<br>
-[ORCHID](http://orcid.org/0000-0003-2735-3706)
+[ORCHID](http://orcid.org/0000-0003-2735-3706)<br>
+[arXiv](https://arxiv.org/a/williamsyoung_d_1.html)
 <br>
 <br>
 
@@ -121,7 +122,7 @@ Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
 Valeev, E.F.; Li, X.;
 "The Chronus Quantum (ChronusQ) Software Package"
 *WIREs Comput. Mol. Sci.* **2019** Submitted. 
-[[arXiv]](https://arxiv.org/abs/1905.01381)
+[[arXiv/1905.01381]](https://arxiv.org/abs/1905.01381)
 [[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
 
 **Williams-Young, D.B.**; Li, X.;
