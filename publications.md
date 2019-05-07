@@ -115,14 +115,20 @@ Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
 "Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
 *ChemPhotoChem*, **2019** Submitted.
 
+**Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
+Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
+Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
+Valeev, E.F.; Li, X.;
+"The Chronus Quantum (ChronusQ) Software Package"
+*WIREs Comput. Mol. Sci.* **2019** Submitted. 
+[[arXiv]](https://arxiv.org/abs/1905.01381)
+[[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
 *ACM Trans. Math. Softw.* **2019** Submitted.
 [[arXiv/1903.05575]](http://arxiv.org/abs/1903.05575)
 [[pdf]]({{ site.url  }}/_assets/papers/1903.05575.pdf)
-
-
 
 
 
