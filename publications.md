@@ -24,7 +24,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **In-Press Manuscripts (Reverse Chronological):**
 
-[15] Hoyer, C.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
+[15] Hoyer, C.E.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
 "Embedding Non-Collinear Two-Component Electronic Structure in a Collinear Quantum Environment"
 *J. Chem. Phys.*, **2019**, 150(17), 174114.
 [[doi]](https://doi.org/10.1063/1.5092628)
