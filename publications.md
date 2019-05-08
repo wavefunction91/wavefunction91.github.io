@@ -97,15 +97,15 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [4] Petrone, A.; Lingerfelt, D. B.; **Williams-Young, D. B.**; Li, X.;
 "Ab Initio Transient Vibrational Spectral Analysis", 
-*J. Phys. Chem. Lett.*, **2016**, 7, 4501--4508.
+*J. Phys. Chem. Lett.*, **2016**, 7, 4501--4508.<br> 
 [[doi:10.1021/acs.jpclett.6b02292]](http://doi.org/10.1021/acs.jpclett.6b02292)<br> 
-[[pdf]]({{ site.url  }}/_assets/papers/DBWY16_JPCL4501.pdf)<br> 
+[[pdf]]({{ site.url  }}/_assets/papers/DBWY16_JPCL4501.pdf)
 
 [3] **Williams-Young, D. B.**; Goings, J.; Li, X.; 
 "Accelerating Real--Time Time--Dependent Density Functional Theory with a Chebyshev Expansion of the Quantum Propagator", 
-*J. Chem. Theor. Comp.*, **2016**, 12(11), 5333--5338.
+*J. Chem. Theor. Comp.*, **2016**, 12(11), 5333--5338.<br> 
 [[doi:10.1021/acs.jctc.6b00693]](http://doi.org/10.1021/acs.jctc.6b00693)<br> 
-[[pdf]]({{ site.url  }}/_assets/papers/DBWY16_JCTC5333.pdf)<br> 
+[[pdf]]({{ site.url  }}/_assets/papers/DBWY16_JCTC5333.pdf)
 
 [2] **Williams-Young, D. B.**; Egidi, F.; Li, X.; 
 "Relativistic Two-Component Particle-Particle Tamm-Dancoff Approximation", 
