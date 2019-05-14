@@ -26,7 +26,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [15] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
-*J. Chem. Theor. Comp.*, **2019** Just Accepted. <br> 
+*J. Chem. Theor. Comp.*, **2019**, 15(5), 3185--3196. <br> 
 [[arXiv:1902.06016]](http://arxiv.org/abs/1902.06016)<br> 
 [[doi:10.1021/acs.jctc.9b00172]](https://doi.org/10.1021/acs.jctc.9b00172)
 <br> 
@@ -43,7 +43,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [13] Sun, S.; **Williams-Young, D.B.**; Li, X.;
 "An Ab Initio Linear Response Method for Computing Magnetic Circular Dichroism Spectra with Non-Perturbative Treatment of Magnetic Field"
-*J. Chem. Theor. Comp.* **2019** Just Accepted. <br> 
+*J. Chem. Theor. Comp.* **2019**, 15(5), 3162--3169. <br> 
 [[doi:10.1021/acs.jctc.9b00095]](https://doi.org/10.1021/acs.jctc.9b00095)
 
 [12] Sun, S.; **Williams-Young D. B.**; Stetina, T. F.; Li, X.;
