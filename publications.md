@@ -21,7 +21,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [//]: <>(**Accepted Manuscripts:**)
 
-**Invited Reviews (Reverse Chronological):**
+[comment]: <> **Invited Reviews (Reverse Chronological):**
 
 [comment]: <> [1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
 [comment]: <> Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
@@ -143,7 +143,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Submitted Manusripts:**
 
-[1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
+**Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
 Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
 Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
 Valeev, E.F.; Li, X.;
