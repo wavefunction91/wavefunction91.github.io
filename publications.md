@@ -16,7 +16,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 <br>
 
 
-[**Ph.D. Thesis**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
+[**Ph.D. Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
 
 
 [//]: <>(**Accepted Manuscripts:**)
