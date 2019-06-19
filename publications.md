@@ -21,10 +21,23 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [//]: <>(**Accepted Manuscripts:**)
 
+**Invited Reviews (Reverse Chronological):**
 
-**In-Press Articles (Lawrence Berkeley National Lab) (Reverse Chronological):**
+[comment]: <> [1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
+[comment]: <> Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
+[comment]: <> Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
+[comment]: <> Valeev, E.F.; Li, X.;
+[comment]: <> "The Chronus Quantum (ChronusQ) Software Package"
+[comment]: <> *WIREs Comput. Mol. Sci.* **2019** Accepted.<br> 
+[comment]: <> [[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
+[comment]: <> [[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
+[comment]: <> <br> 
+[comment]: <> <br> 
 
-[15] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
+
+**In-Press Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
+
+[1] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
 *J. Chem. Theor. Comp.*, **2019**, 15(5), 3185--3196. <br> 
 [[arXiv:1902.06016]](http://arxiv.org/abs/1902.06016)<br> 
@@ -33,7 +46,12 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 <br> 
 
 
-**In-Press Articles (University of Washington) (Reverse Chronological):**
+**In-Press Research Papers (University of Washington) (Reverse Chronological):**
+
+[15] Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
+"Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
+*ChemPhotoChem*, **2019**, Accepted.<br>
+[[doi:10.1002/cptc.201900161]](https://doi.org/10.1002/cptc.201900161)
 
 [14] Hoyer, C.E.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
 "Embedding Non-Collinear Two-Component Electronic Structure in a Collinear Quantum Environment"
@@ -125,17 +143,13 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Submitted Manusripts:**
 
-Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
-"Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
-*ChemPhotoChem*, **2019** Submitted.
-
-**Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
+[1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
 Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
 Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
 Valeev, E.F.; Li, X.;
 "The Chronus Quantum (ChronusQ) Software Package"
-*WIREs Comput. Mol. Sci.* **2019** Submitted. 
-[[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)
+*WIREs Comput. Mol. Sci.* **2019** Submitted.<br> 
+[[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
 [[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
 
 **Williams-Young, D.B.**; Li, X.;
