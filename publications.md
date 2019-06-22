@@ -21,21 +21,21 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [//]: <>(**Accepted Manuscripts:**)
 
-[comment]: <> **Invited Reviews (Reverse Chronological):**
+**Invited Reviews**
 
-[comment]: <> [1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
-[comment]: <> Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
-[comment]: <> Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
-[comment]: <> Valeev, E.F.; Li, X.;
-[comment]: <> "The Chronus Quantum (ChronusQ) Software Package"
-[comment]: <> *WIREs Comput. Mol. Sci.* **2019** Accepted.<br> 
-[comment]: <> [[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
-[comment]: <> [[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
-[comment]: <> <br> 
-[comment]: <> <br> 
+[1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
+Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
+Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
+Valeev, E.F.; Li, X.;
+"The Chronus Quantum (ChronusQ) Software Package"
+*WIREs Comput. Mol. Sci.* **2019** Accepted.<br> 
+[[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
+[[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
+<br> 
+<br> 
 
 
-**In-Press Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
+**Contributed Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
 
 [1] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
@@ -46,7 +46,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 <br> 
 
 
-**In-Press Research Papers (University of Washington) (Reverse Chronological):**
+**Contributed Research Papers (University of Washington) (Reverse Chronological):**
 
 [15] Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
 "Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
@@ -142,15 +142,6 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 
 **Submitted Manusripts:**
-
-**Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
-Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
-Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
-Valeev, E.F.; Li, X.;
-"The Chronus Quantum (ChronusQ) Software Package"
-*WIREs Comput. Mol. Sci.* **2019** Submitted.<br> 
-[[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
-[[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
