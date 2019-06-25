@@ -143,6 +143,11 @@ Valeev, E.F.; Li, X.;
 
 **Submitted Manusripts:**
 
+Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
+"Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
+Functional Theory in Gauge Including Atomic Orbitals"
+*J. Chem. Theor. Comp.* **2019** Submitted.
+
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
 *ACM Trans. Math. Softw.* **2019** Submitted.
