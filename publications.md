@@ -143,6 +143,11 @@ Valeev, E.F.; Li, X.;
 
 **Submitted Manusripts:**
 
+Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.
+"Relativistic Real-Time Time-Dependent Equation-of-Motion Coupled-Cluster"
+*J. Chem. Theor. Comp.* **2019** Submitted.
+
+
 Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
 "Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
 Functional Theory in Gauge Including Atomic Orbitals"
