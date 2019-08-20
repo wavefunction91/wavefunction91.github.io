@@ -143,14 +143,24 @@ Valeev, E.F.; Li, X.;
 
 **Submitted Manusripts:**
 
-Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.
-"Relativistic Real-Time Time-Dependent Equation-of-Motion Coupled-Cluster"
+
+**Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
+"A Shift Selection Strategy for Parallel Shift-Invert Spectrum
+Slicing in Symmetric Self-Consistent Eigenvalue
+Computation",
+*ACM Trans. Math. Softw.* **2019** Submitted.
+[[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)
+[[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf)
+
+
+Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.;
+"Relativistic Real-Time Time-Dependent Equation-of-Motion Coupled-Cluster",
 *J. Chem. Theor. Comp.* **2019** Submitted.
 
 
 Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
 "Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
-Functional Theory in Gauge Including Atomic Orbitals"
+Functional Theory in Gauge Including Atomic Orbitals",
 *J. Chem. Theor. Comp.* **2019** Submitted.
 
 **Williams-Young, D.B.**; Li, X.;
