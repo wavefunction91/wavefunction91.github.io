@@ -28,8 +28,9 @@ Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
 Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
 Valeev, E.F.; Li, X.;
 "The Chronus Quantum (ChronusQ) Software Package"
-*WIREs Comput. Mol. Sci.* **2019** Accepted.<br> 
+*WIREs Comput. Mol. Sci.*; **2019**; e1436.<br> 
 [[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
+[[doi:10.1002/wcms.1436]](https://doi.org/10.1002/wcms.1436)<br>
 [[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
 <br> 
 <br> 
@@ -143,6 +144,12 @@ Valeev, E.F.; Li, X.;
 
 **Submitted Manusripts:**
 
+Kowalski, K.; Aprà, E.; Bair, R.; Boschen, J.; Bylaska, E.; Daily, J.; de Jong, W.; 
+Dunning, T.; Govind, N.; Harrison, R.; Keipert, K.; Krishnamoorthy, S.; Kumar, S.; Mutlu, E.; 
+Palmer, B.; Panyala, A.; Peng, B.; Richard, R.; Straatsma, T.; Valeev, E.; Valiev, M.; 
+van Dam, H.; **Williams-Young, D.**; Yang, C.; Zalewski, M.; Windus, T.;
+"NWChemEx—Computational Chemistry for the Exascale Era"
+*Chemical Reviews* **2019** Submitted.
 
 **Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
 "A Shift Selection Strategy for Parallel Shift-Invert Spectrum
