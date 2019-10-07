@@ -49,7 +49,7 @@ Valeev, E.F.; Li, X.;
 
 **Contributed Research Papers (University of Washington) (Reverse Chronological):**
 
-Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
+[16] Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
 "Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
 Functional Theory in Gauge Including Atomic Orbitals",
 *J. Chem. Theor. Comp.* **2019** Accepted.<br>
