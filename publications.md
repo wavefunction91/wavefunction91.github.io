@@ -49,9 +49,15 @@ Valeev, E.F.; Li, X.;
 
 **Contributed Research Papers (University of Washington) (Reverse Chronological):**
 
+Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
+"Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
+Functional Theory in Gauge Including Atomic Orbitals",
+*J. Chem. Theor. Comp.* **2019** Accepted.<br>
+[[doi:10.1021/acs.jctc.9b00632]](https://doi.org/10.1021/acs.jctc.9b00632)
+
 [15] Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
 "Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
-*ChemPhotoChem*, **2019**, Accepted.<br>
+*ChemPhotoChem*, **2019**, 3(9), 739--746 <br>
 [[doi:10.1002/cptc.201900161]](https://doi.org/10.1002/cptc.201900161)
 
 [14] Hoyer, C.E.;  **Williams-Young, D.B.**; Huang, C.; and Li, X.;
@@ -165,10 +171,6 @@ Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.;
 *J. Chem. Theor. Comp.* **2019** Submitted.
 
 
-Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
-"Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
-Functional Theory in Gauge Including Atomic Orbitals",
-*J. Chem. Theor. Comp.* **2019** Submitted.
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
