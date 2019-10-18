@@ -49,6 +49,12 @@ Valeev, E.F.; Li, X.;
 
 **Contributed Research Papers (University of Washington) (Reverse Chronological):**
 
+[17] Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.;
+"Relativistic Real-Time Time-Dependent Equation-of-Motion Coupled-Cluster",
+*J. Chem. Theor. Comp.* **2019** Accepted.
+[[doi:10.1021/acs.jctc.9b00729]](https://doi.org/10.1021/acs.jctc.9b00729)
+
+
 [16] Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
 "Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
 Functional Theory in Gauge Including Atomic Orbitals",
@@ -164,13 +170,6 @@ Computation",
 *ACM Trans. Math. Softw.* **2019** Submitted.
 [[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)
 [[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf)
-
-
-Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.;
-"Relativistic Real-Time Time-Dependent Equation-of-Motion Coupled-Cluster",
-*J. Chem. Theor. Comp.* **2019** Submitted.
-
-
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
