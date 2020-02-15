@@ -16,7 +16,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 <br>
 
 
-[**Ph.D. Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
+[**Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
 
 
 [//]: <>(**Accepted Manuscripts:**)
@@ -180,6 +180,10 @@ Computation",
 
 
 **Talk Slides:**
+
+SIAM-PP20 (14-Feb-2020);
+"Parallel Shift-Invert Spectrum Slicing for Symmetric Self-Consistent Eigenvalue Computation"
+[[pdf]]({{ site.url }}/_assets/siam-pp20.pdf)
 
 APS March Meeting 2019 (05-March-2019); 
 "A General Model Order Reduction Scheme for the Evaluation of Spectroscopic Properties and Excited States"
