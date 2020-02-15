@@ -27,15 +27,30 @@ been in the development of their density functional theory implementation
 as well as in the integration of scalable linear algebra solvers suitable
 for exascale computing.
 
-## CXXBLACS
-- Developer / Maintainer
-- [Github](https://github.com/wavefunction91/CXXBLACS)
+## TiledArray
+- Contributor (2020-present)
+- [Github](https://github.com/ValeevGroup/tiledarray)
 
-CXXBLACS is a simple C++11 wrapper for the FORTRAN BLACS library
-used in ScaLAPACK / PBLAS. It also contains wrappers for a subset
-of ScaLAPACK / PBLAS and added some functionality to ease 
-distributed linear algebra (distribution from node to the grid,
-etc).
+TiledArray is a distributed memory tensor contraction library developed
+by the Valeev group at Virginia Tech. My primary contributions to TiledArray
+have been in the development of interfaces for TiledArray data structures
+to high-performance linear algebra software (e.g. ScaLAPACK, SLATE, etc).
+
+## scalapackpp
+- Developer / Maintainer
+- [Github](https://github.com/wavefunction91/scalapackpp)
+
+scalapackpp is a C++17 wrapper around the ScaLAPACK distributed
+memory linear algebra package.
+
+
+## blacspp
+- Developer / Maintainer
+- [Github](https://github.com/wavefunction91/blacspp)
+
+blacspp is a C++17 wrapper around the BLACS library utilized
+in distributed memory linear algebra software (e.g. ScaLAPACK)
+
 
 ## HAXX
 - Developer / Maintainer
