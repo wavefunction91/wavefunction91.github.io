@@ -35,6 +35,13 @@ Valeev, E.F.; Li, X.;
 <br> 
 <br> 
 
+**Contributed Conference Papers (Lawrence Berkeley National Lab):**
+[1] **Williams-Young, D.B.**; Yang, C.;
+"Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators." 
+In *49th International Conference on Parallel Processing - ICPP (ICPP ’20)*, 
+August 17–20, 2020, Edmonton, AB, Canada. To Appear. 
+[[doi:10.1145/3404397.3404416]](https://doi.org/10.1145/3404397.3404416)
+[[pdf]]({{ site.url  }}/_assets/papers/DBWY20_ICPP20.pdf)
 
 **Contributed Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
 
