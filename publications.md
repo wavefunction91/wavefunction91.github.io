@@ -36,6 +36,7 @@ Valeev, E.F.; Li, X.;
 <br> 
 
 **Contributed Conference Papers (Lawrence Berkeley National Lab):**
+
 [1] **Williams-Young, D.B.**; Yang, C.;
 "Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators." 
 In *49th International Conference on Parallel Processing - ICPP (ICPP ’20)*, 
@@ -44,6 +45,15 @@ August 17–20, 2020, Edmonton, AB, Canada. To Appear.
 [[pdf]]({{ site.url  }}/_assets/papers/DBWY20_ICPP20.pdf)
 
 **Contributed Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
+
+[2] **Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
+"A Shift Selection Strategy for Parallel Shift-Invert Spectrum
+Slicing in Symmetric Self-Consistent Eigenvalue
+Computation",
+*ACM Trans. Math. Softw.* **2020** Accepted.
+[[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)
+[[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf)
+
 
 [1] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
@@ -169,14 +179,6 @@ Palmer, B.; Panyala, A.; Peng, B.; Richard, R.; Straatsma, T.; Valeev, E.; Valie
 van Dam, H.; **Williams-Young, D.**; Yang, C.; Zalewski, M.; Windus, T.;
 "NWChemEx—Computational Chemistry for the Exascale Era"
 *Chemical Reviews* **2019** Submitted.
-
-**Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
-"A Shift Selection Strategy for Parallel Shift-Invert Spectrum
-Slicing in Symmetric Self-Consistent Eigenvalue
-Computation",
-*ACM Trans. Math. Softw.* **2019** Submitted.
-[[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)
-[[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf)
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
