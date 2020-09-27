@@ -21,7 +21,13 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [//]: <>(**Accepted Manuscripts:**)
 
-**Invited Reviews**
+**Invited Publications**
+
+[2] **Williams-Young, D.B.**; de Jong, W.A.; van Dam, H.J.J.; Yang, C.;
+"On the Efficient Evaluation of the Exchange Correlation Potential on Graphics Processing Unit Clusters"
+*Front. Chem.*; **2020**; Accepted.<br>
+[[arXiv:2007.03143]](https://arxiv.org/abs/2007.03143) <br>
+[[pdf]](https://arxiv.org/pdf/2007.03143.pdf) <br>
 
 [1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
 Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
@@ -35,14 +41,6 @@ Valeev, E.F.; Li, X.;
 <br> 
 <br> 
 
-**Contributed Conference Papers (Lawrence Berkeley National Lab):**
-
-[1] **Williams-Young, D.B.**; Yang, C.;
-"Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators." 
-In *49th International Conference on Parallel Processing - ICPP (ICPP ’20)*, 
-August 17–20, 2020, Edmonton, AB, Canada. To Appear. 
-[[doi:10.1145/3404397.3404416]](https://doi.org/10.1145/3404397.3404416)
-[[pdf]]({{ site.url  }}/_assets/papers/DBWY20_ICPP20.pdf)
 
 **Contributed Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
 
@@ -50,9 +48,10 @@ August 17–20, 2020, Edmonton, AB, Canada. To Appear.
 "A Shift Selection Strategy for Parallel Shift-Invert Spectrum
 Slicing in Symmetric Self-Consistent Eigenvalue
 Computation",
-*ACM Trans. Math. Softw.* **2020** Accepted.
-[[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)
-[[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf)
+*ACM Trans. Math. Softw.* **2020** 46, 4, Atciel 35 (September 2020). <br>
+[[doi:10.1145/3409571]](https://doi.org/10.1145/3409571)<br>
+[[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)<br>
+[[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf) <br>
 
 
 [1] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
@@ -60,6 +59,18 @@ Computation",
 *J. Chem. Theor. Comp.*, **2019**, 15(5), 3185--3196. <br> 
 [[arXiv:1902.06016]](http://arxiv.org/abs/1902.06016)<br> 
 [[doi:10.1021/acs.jctc.9b00172]](https://doi.org/10.1021/acs.jctc.9b00172)
+<br> 
+<br> 
+
+
+**Contributed Conference Papers (Lawrence Berkeley National Lab):**
+
+[1] **Williams-Young, D.B.**; Yang, C.;
+"Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators." 
+In *49th International Conference on Parallel Processing - ICPP (ICPP ’20)*, 
+August 17–20, 2020, Edmonton, AB, Canada. 
+[[doi:10.1145/3404397.3404416]](https://doi.org/10.1145/3404397.3404416)
+[[pdf]]({{ site.url  }}/_assets/papers/DBWY20_ICPP20.pdf)
 <br> 
 <br> 
 
