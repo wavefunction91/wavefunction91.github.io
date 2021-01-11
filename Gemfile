@@ -21,3 +21,7 @@ gem "minima"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+gem "kramdown", ">= 2.3.0"
+gem "json", ">= 2.3.0"
+gem "nokogiri", ">= 1.11.0.rc4"
