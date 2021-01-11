@@ -25,8 +25,9 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [2] **Williams-Young, D.B.**; de Jong, W.A.; van Dam, H.J.J.; Yang, C.;
 "On the Efficient Evaluation of the Exchange Correlation Potential on Graphics Processing Unit Clusters"
-*Front. Chem.*; **2020**; Accepted.<br>
+*Front. Chem.*; **2020**; 8; 951<br>
 [[arXiv:2007.03143]](https://arxiv.org/abs/2007.03143) <br>
+[[doi:10.3389/fchem.2020.581058]](https://doi.org/10.3389/fchem.2020.581058) <br>
 [[pdf]](https://arxiv.org/pdf/2007.03143.pdf) <br>
 
 [1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
@@ -48,7 +49,7 @@ Valeev, E.F.; Li, X.;
 "A Shift Selection Strategy for Parallel Shift-Invert Spectrum
 Slicing in Symmetric Self-Consistent Eigenvalue
 Computation",
-*ACM Trans. Math. Softw.* **2020** 46, 4, Atciel 35 (September 2020). <br>
+*ACM Trans. Math. Softw.* **2020** 46, 4, Article 35 (September 2020). <br>
 [[doi:10.1145/3409571]](https://doi.org/10.1145/3409571)<br>
 [[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)<br>
 [[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf) <br>
@@ -190,6 +191,12 @@ Palmer, B.; Panyala, A.; Peng, B.; Richard, R.; Straatsma, T.; Valeev, E.; Valie
 van Dam, H.; **Williams-Young, D.**; Yang, C.; Zalewski, M.; Windus, T.;
 "NWChemEx—Computational Chemistry for the Exascale Era"
 *Chemical Reviews* **2019** Submitted.
+
+**Williams-Young, D.B.**; Bagusetty, A.; de Jong, W.A.; Doerfler, D.; vam Dam, H.J.J.; Vazquez--Mayagoitia, A.;
+Windus, T.L.; Yang, C.; 
+"Achieving Performance Portability in Gaussian Basis Set Density Functional Theory on Accelerator Based Architectures"
+*Parallel Computing* **2020** Submitted.
+
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
