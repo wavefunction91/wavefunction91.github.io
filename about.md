@@ -11,14 +11,13 @@ David Williams--Young, Ph.D., Scalable Solvers Group, Department of Applied Math
 (PGP Fingerprint: {{site.gpgfgr}})
 
 
-Currently I am a postdoctoral scholar in the 
+Currently I am a Research Scientist in the 
 [Scalable Solvers Group (SSG)](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/) in the 
 [Computational Research Division (CRD)](https://crd.lbl.gov/)
-at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), where I am advised by Chao Yang. 
+at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), 
 ([work webpage](http://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/postdoctoral-researchers/david-williams-young/)).
-My current 
-projects center around massively parallel algorithms for eigenvalue problems which arise in electrionic structure
-theory.
+My current projects center around massively parallel algorithms for eigenvalue
+problems which arise in electrionic structure theory.
 
 
 I recieved my Ph.D. in Chemistry at the University of Washington in 2018 under the supervision
