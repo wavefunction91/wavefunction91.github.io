@@ -19,33 +19,39 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 [**Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
 
 
-[//]: <>(**Accepted Manuscripts:**)
+**Accepted Manuscripts:**
 
-**Invited Publications**
+Kowalski, K.; Bair, R.; Bauman, N.P.; Boschen, J.S.; Bylaska, E.J.; 
+Daily, J.; de Jong, W.A.; Dunning, T.; Govind, N.; Harrison, R.J.; 
+Keceli, M.; Keipert, K.; Krishnamoorthy, S.; Kumar, S.; Mutlu, E.; 
+Palmer, B.; Panyala, A.; Peng, B.; Richard, R.M.; Straatsma, T.P.; 
+Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.; 
+**Williams-Youngm D.B.**; Yang, C.; Zalewski, M.; Windus, T.L.;
+"From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape" 
+*Chem. Rev.*; **2021**, Accepted.<br>
 
-[2] **Williams-Young, D.B.**; de Jong, W.A.; van Dam, H.J.J.; Yang, C.;
+Ahmed, H.; **Williams-Young, D.B.**; Ibrahim, K.Z.; Yang, C.;
+"Performance Modeling and Tuning for DFT Calculations on Heterogeneous Architectures"
+In *22nd IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC 2021)}*,
+**2021**, Accepted.
+<br> 
+<br> 
+
+
+**Lawrence Berkeley National Lab (2018-Present):**
+
+[5] Yang. C.; Brabec, J.; Veis, L.; **Williams-Young, D.B.**; Kowalski, K.;
+"Solving Coupled Cluster Equations by the Newton Krylov Method"
+*Front. Chem.*; **2020**; 8:590184<br>
+
+[4] **Williams-Young, D.B.**; de Jong, W.A.; van Dam, H.J.J.; Yang, C.;
 "On the Efficient Evaluation of the Exchange Correlation Potential on Graphics Processing Unit Clusters"
-*Front. Chem.*; **2020**; 8; 951<br>
+*Front. Chem.*; **2020**; 8:581058<br>
 [[arXiv:2007.03143]](https://arxiv.org/abs/2007.03143) <br>
 [[doi:10.3389/fchem.2020.581058]](https://doi.org/10.3389/fchem.2020.581058) <br>
 [[pdf]](https://arxiv.org/pdf/2007.03143.pdf) <br>
 
-[1] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
-Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
-Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
-Valeev, E.F.; Li, X.;
-"The Chronus Quantum (ChronusQ) Software Package"
-*WIREs Comput. Mol. Sci.*; **2019**; e1436.<br> 
-[[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
-[[doi:10.1002/wcms.1436]](https://doi.org/10.1002/wcms.1436)<br>
-[[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
-<br> 
-<br> 
-
-
-**Contributed Research Papers (Lawrence Berkeley National Lab) (Reverse Chronological):**
-
-[2] **Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
+[3] **Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
 "A Shift Selection Strategy for Parallel Shift-Invert Spectrum
 Slicing in Symmetric Self-Consistent Eigenvalue
 Computation",
@@ -54,6 +60,13 @@ Computation",
 [[arXiv:1908.06043]](https://arxiv.org/abs/1908.06043)<br>
 [[pdf]]({{ site.url  }}/_assets/papers/1908.06043.pdf) <br>
 
+[2] **Williams-Young, D.B.**; Yang, C.;
+"Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators." 
+In *49th International Conference on Parallel Processing - ICPP (ICPP ’20)*, 
+August 17–20, 2020, Edmonton, AB, Canada. <br>
+[[doi:10.1145/3404397.3404416]](https://doi.org/10.1145/3404397.3404416)
+[[pdf]]({{ site.url  }}/_assets/papers/DBWY20_ICPP20.pdf)
+<br> 
 
 [1] Peng, B.; Van Beeumen, R.; **Williams-Young, D.B.**; Kowalski, K.; Yang, C.;
 "Approximate Green’s Function Coupled Cluster Method Employing Effective Dimension Reduction"
@@ -64,31 +77,29 @@ Computation",
 <br> 
 
 
-**Contributed Conference Papers (Lawrence Berkeley National Lab):**
+**University of Washington (2013-2018):**
 
-[1] **Williams-Young, D.B.**; Yang, C.;
-"Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators." 
-In *49th International Conference on Parallel Processing - ICPP (ICPP ’20)*, 
-August 17–20, 2020, Edmonton, AB, Canada. 
-[[doi:10.1145/3404397.3404416]](https://doi.org/10.1145/3404397.3404416)
-[[pdf]]({{ site.url  }}/_assets/papers/DBWY20_ICPP20.pdf)
-<br> 
-<br> 
-
-
-**Contributed Research Papers (University of Washington) (Reverse Chronological):**
-
-[17] Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.;
+[18] Koulias, L.; **Williams-Young, D.B.**; Nascimento, D.; DePrince, A.E.; Li, X.;
 "Relativistic Real-Time Time-Dependent Equation-of-Motion Coupled-Cluster",
-*J. Chem. Theor. Comp.* **2019** 15(12), 6617--6624.
+*J. Chem. Theor. Comp.* **2019** 15(12), 6617--6624.<br>
 [[doi:10.1021/acs.jctc.9b00729]](https://doi.org/10.1021/acs.jctc.9b00729)
 
 
-[16] Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
+[17] Sun, S.; Beck, R.; **Williams-Young, D.B.**; Li, X.;
 "Simulating Magnetic Circular Dichroism Spectra with Real-Time Time-Dependent Density 
 Functional Theory in Gauge Including Atomic Orbitals",
 *J. Chem. Theor. Comp.* **2019** 15(12) 6824--6831.<br>
 [[doi:10.1021/acs.jctc.9b00632]](https://doi.org/10.1021/acs.jctc.9b00632)
+
+[16] **Williams-Young, D.B.**; Petrone, A.; Sun, S.; Stetina, T.F.;
+Lestrange, P.; Hoyer, C.E.; Nascimento, D.R.; Koulias, L.;
+Wildman, A.; Kasper, J.; Goings, J.J.; Ding, F.; DePrince, A.E.;
+Valeev, E.F.; Li, X.;
+"The Chronus Quantum (ChronusQ) Software Package"
+*WIREs Comput. Mol. Sci.*; **2019**; e1436.<br> 
+[[arXiv:1905.01381]](https://arxiv.org/abs/1905.01381)<br>
+[[doi:10.1002/wcms.1436]](https://doi.org/10.1002/wcms.1436)<br>
+[[pdf]]({{ site.url  }}/_assets/papers/1905.01381.pdf)
 
 [15] Stetina, T.F.; Sun, S.; **Williams-Young, D.B.**; Li, X.;
 "Modeling Magneto-Photoabsorption Using Time-Dependent Complex Generalized Hartree-Fock"
