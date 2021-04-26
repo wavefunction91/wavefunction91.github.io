@@ -21,14 +21,6 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Accepted Manuscripts:**
 
-Kowalski, K.; Bair, R.; Bauman, N.P.; Boschen, J.S.; Bylaska, E.J.; 
-Daily, J.; de Jong, W.A.; Dunning, T.; Govind, N.; Harrison, R.J.; 
-Keceli, M.; Keipert, K.; Krishnamoorthy, S.; Kumar, S.; Mutlu, E.; 
-Palmer, B.; Panyala, A.; Peng, B.; Richard, R.M.; Straatsma, T.P.; 
-Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.; 
-**Williams-Youngm D.B.**; Yang, C.; Zalewski, M.; Windus, T.L.;
-"From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape" 
-*Chem. Rev.*; **2021**, Accepted.<br>
 
 Ahmed, H.; **Williams-Young, D.B.**; Ibrahim, K.Z.; Yang, C.;
 "Performance Modeling and Tuning for DFT Calculations on Heterogeneous Architectures"
@@ -39,6 +31,16 @@ In *22nd IEEE International Workshop on Parallel and Distributed Scientific and 
 
 
 **Lawrence Berkeley National Lab (2018-Present):**
+
+[6] Kowalski, K.; Bair, R.; Bauman, N.P.; Boschen, J.S.; Bylaska, E.J.; 
+Daily, J.; de Jong, W.A.; Dunning, T.; Govind, N.; Harrison, R.J.; 
+Keceli, M.; Keipert, K.; Krishnamoorthy, S.; Kumar, S.; Mutlu, E.; 
+Palmer, B.; Panyala, A.; Peng, B.; Richard, R.M.; Straatsma, T.P.; 
+Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.; 
+**Williams-Youngm D.B.**; Yang, C.; Zalewski, M.; Windus, T.L.;
+"From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape" 
+*Chem. Rev.*; **2021**, In Press.<br>
+[[doi:10.1021/acs.chemrev.0c00998]](https://doi.org/10.1021/acs.chemrev.0c00998)<br>
 
 [5] Yang. C.; Brabec, J.; Veis, L.; **Williams-Young, D.B.**; Kowalski, K.;
 "Solving Coupled Cluster Equations by the Newton Krylov Method"
