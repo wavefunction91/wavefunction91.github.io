@@ -45,6 +45,7 @@ Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.;
 [5] Yang. C.; Brabec, J.; Veis, L.; **Williams-Young, D.B.**; Kowalski, K.;
 "Solving Coupled Cluster Equations by the Newton Krylov Method"
 *Front. Chem.*; **2020**; 8:590184<br>
+[[doi:10.3389/fchem.2020.590184]](https://doi.org/10.3389/fchem.2020.590184) <br>
 
 [4] **Williams-Young, D.B.**; de Jong, W.A.; van Dam, H.J.J.; Yang, C.;
 "On the Efficient Evaluation of the Exchange Correlation Potential on Graphics Processing Unit Clusters"
@@ -198,12 +199,9 @@ Valeev, E.F.; Li, X.;
 
 **Submitted Manusripts:**
 
-Kowalski, K.; Aprà, E.; Bair, R.; Boschen, J.; Bylaska, E.; Daily, J.; de Jong, W.; 
-Dunning, T.; Govind, N.; Harrison, R.; Keipert, K.; Krishnamoorthy, S.; Kumar, S.; Mutlu, E.; 
-Palmer, B.; Panyala, A.; Peng, B.; Richard, R.; Straatsma, T.; Valeev, E.; Valiev, M.; 
-van Dam, H.; **Williams-Young, D.**; Yang, C.; Zalewski, M.; Windus, T.;
-"NWChemEx—Computational Chemistry for the Exascale Era"
-*Chemical Reviews* **2019** Submitted.
+Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; de Jong, W.A.;
+"The Effect of Geometry, Spin and Orbital Optimization in Achieving Accurate, Fully-Correlated Results for Iron-Sulfur Cubanes"
+*Chemical Science* **2021** Submitted.
 
 **Williams-Young, D.B.**; Bagusetty, A.; de Jong, W.A.; Doerfler, D.; vam Dam, H.J.J.; Vazquez--Mayagoitia, A.;
 Windus, T.L.; Yang, C.; 
