@@ -19,18 +19,14 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 [**Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
 
 
-**Accepted Manuscripts:**
-
-
-Ahmed, H.; **Williams-Young, D.B.**; Ibrahim, K.Z.; Yang, C.;
-"Performance Modeling and Tuning for DFT Calculations on Heterogeneous Architectures"
-In *22nd IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC 2021)}*,
-**2021**, Accepted.
-<br> 
-<br> 
-
 
 **Lawrence Berkeley National Lab (2018-Present):**
+
+[7] Ahmed, H.; **Williams-Young, D.B.**; Ibrahim, K.Z.; Yang, C.;
+"Performance Modeling and Tuning for DFT Calculations on Heterogeneous Architectures"
+In *22nd IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC 2021)}*,
+**2021**, pp. 714--722<br>
+[[doi:10.1109/IPDPSW52791.2021.00108]](https://doi.org/10.1109/IPDPSW52791.2021.00108)<br>
 
 [6] Kowalski, K.; Bair, R.; Bauman, N.P.; Boschen, J.S.; Bylaska, E.J.; 
 Daily, J.; de Jong, W.A.; Dunning, T.; Govind, N.; Harrison, R.J.; 
@@ -39,7 +35,7 @@ Palmer, B.; Panyala, A.; Peng, B.; Richard, R.M.; Straatsma, T.P.;
 Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.; 
 **Williams-Youngm D.B.**; Yang, C.; Zalewski, M.; Windus, T.L.;
 "From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape" 
-*Chem. Rev.*; **2021**, In Press.<br>
+*Chem. Rev.*; **2021**, 121, 8, 4962–-4998<br>
 [[doi:10.1021/acs.chemrev.0c00998]](https://doi.org/10.1021/acs.chemrev.0c00998)<br>
 
 [5] Yang. C.; Brabec, J.; Veis, L.; **Williams-Young, D.B.**; Kowalski, K.;
