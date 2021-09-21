@@ -23,10 +23,14 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 **Lawrence Berkeley National Lab (2018-Present):**
 
 
+[9] Bez, J.L.; Tang, H.; Xie, B.; **Williams-Young, D.B.**; Latham, R.; Ross, R.; Oral, S.; Byna, S.;
+"I/O Bottleneck Detection and Tuning:Connecting the Dots using Interactive Log Analysis"
+*The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC21)* **2021** Accepted.
+
 [8] **Williams-Young, D.B.**; Bagusetty, A.; de Jong, W.A.; Doerfler, D.; vam Dam, H.J.J.; Vazquez--Mayagoitia, A.;
 Windus, T.L.; Yang, C.; 
 "Achieving Performance Portability in Gaussian Basis Set Density Functional Theory on Accelerator Based Architectures"
-*Parallel Computing* **2021** Accepted.<bR>
+*Parallel Computing* **2021**,  108, 102829.<bR>
 
 [7] Ahmed, H.; **Williams-Young, D.B.**; Ibrahim, K.Z.; Yang, C.;
 "Performance Modeling and Tuning for DFT Calculations on Heterogeneous Architectures"
@@ -200,10 +204,6 @@ Valeev, E.F.; Li, X.;
 
 
 **Submitted Manusripts:**
-
-Bez, J.L.; Tang, H.; Xie, B.; **Williams-Young, D.B.**; Latham, R.; Ross, R.; Oral, S.; Byna, S.;
-"I/O Bottleneck Detection and Tuning:Connecting the Dots using Interactive Log Analysis"
-*The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC21)* **2021** Submitted.
 
 Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; de Jong, W.A.;
 "The Effect of Geometry, Spin and Orbital Optimization in Achieving Accurate, Fully-Correlated Results for Iron-Sulfur Cubanes"
