@@ -30,7 +30,8 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 [8] **Williams-Young, D.B.**; Bagusetty, A.; de Jong, W.A.; Doerfler, D.; vam Dam, H.J.J.; Vazquez--Mayagoitia, A.;
 Windus, T.L.; Yang, C.; 
 "Achieving Performance Portability in Gaussian Basis Set Density Functional Theory on Accelerator Based Architectures"
-*Parallel Computing* **2021**,  108, 102829.<bR>
+*Parallel Computing* **2021**,  108, 102829.<br>
+[[doi:10.1016/j.parco.2021.102829]](https://doi.org/10.1016/j.parco.2021.102829)<br>
 
 [7] Ahmed, H.; **Williams-Young, D.B.**; Ibrahim, K.Z.; Yang, C.;
 "Performance Modeling and Tuning for DFT Calculations on Heterogeneous Architectures"
