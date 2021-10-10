@@ -13,7 +13,7 @@ David Williams--Young, Ph.D., Computational Chemistry, Materials and Climate Gro
 
 Currently I am a Research Scientist in the 
 [Computational Chemisty, Materials & Climate Group (CCMC)](https://crd.lbl.gov/divisions/amcr/computational-science-dept/ccmc) in the 
-[Applied Mathematics and Computational Research Division(AMCR)](https://crd.lbl.gov/divisions/amcr)
+[Applied Mathematics and Computational Research Division (AMCR)](https://crd.lbl.gov/divisions/amcr)
 at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), 
 ([work webpage](https://crd.lbl.gov/divisions/amcr/computational-science-dept/ccmc/staff/staff-members/david-williams-young)).
 My current projects center around massively parallel algorithms for electrionic structure theory.
