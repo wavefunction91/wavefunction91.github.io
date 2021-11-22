@@ -25,7 +25,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [9] Bez, J.L.; Tang, H.; Xie, B.; **Williams-Young, D.B.**; Latham, R.; Ross, R.; Oral, S.; Byna, S.;
 "I/O Bottleneck Detection and Tuning:Connecting the Dots using Interactive Log Analysis"
-*The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC21)* **2021** Accepted.
+*2021 IEEE/ACM 6th International Parallel Data Systems Workshop (PDSW)* **2021**.
 
 [8] **Williams-Young, D.B.**; Bagusetty, A.; de Jong, W.A.; Doerfler, D.; vam Dam, H.J.J.; Vazquez--Mayagoitia, A.;
 Windus, T.L.; Yang, C.; 
