@@ -22,6 +22,11 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
+[10] Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; 
+de Jong, W.A.; 
+"The Effect of Geometry, Spin and Orbital Optimization in Achieving Accurate, Fully-Correlated Results for Iron-Sulfur Cubanes"
+*J. Chem. Theory Comput.* **2021** ASAP.<br>
+[[arXiv:2105.01754]](https://arxiv.org/abs/2105.01754)
 
 [9] Bez, J.L.; Tang, H.; Xie, B.; **Williams-Young, D.B.**; Latham, R.; Ross, R.; Oral, S.; Byna, S.;
 "I/O Bottleneck Detection and Tuning:Connecting the Dots using Interactive Log Analysis"
@@ -206,9 +211,6 @@ Valeev, E.F.; Li, X.;
 
 **Submitted Manusripts:**
 
-Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; de Jong, W.A.;
-"The Effect of Geometry, Spin and Orbital Optimization in Achieving Accurate, Fully-Correlated Results for Iron-Sulfur Cubanes"
-*J. Chem. Theory Comput.* **2021** Submitted.
 <br>
 <br>
 
