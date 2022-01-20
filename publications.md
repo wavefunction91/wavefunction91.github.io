@@ -26,11 +26,13 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 de Jong, W.A.; 
 "The Effect of Geometry, Spin and Orbital Optimization in Achieving Accurate, Fully-Correlated Results for Iron-Sulfur Cubanes"
 *J. Chem. Theory Comput.* **2021** ASAP.<br>
-[[arXiv:2105.01754]](https://arxiv.org/abs/2105.01754)
+[[arXiv:2105.01754]](https://arxiv.org/abs/2105.01754)<br>
+[[doi:10.1021/acs.jctc.1c00830]](https://doi.org/10.1021/acs.jctc.1c00830)
 
 [9] Bez, J.L.; Tang, H.; Xie, B.; **Williams-Young, D.B.**; Latham, R.; Ross, R.; Oral, S.; Byna, S.;
-"I/O Bottleneck Detection and Tuning:Connecting the Dots using Interactive Log Analysis"
-*2021 IEEE/ACM 6th International Parallel Data Systems Workshop (PDSW)* **2021**.
+"I/O Bottleneck Detection and Tuning: Connecting the Dots using Interactive Log Analysis"
+*2021 IEEE/ACM 6th International Parallel Data Systems Workshop (PDSW)* **2021**.<br>
+[[doi:10.1109/PDSW54622.2021.00008]](https://doi.org/10.1109/PDSW54622.2021.00008)<br>
 
 [8] **Williams-Young, D.B.**; Bagusetty, A.; de Jong, W.A.; Doerfler, D.; vam Dam, H.J.J.; Vazquez--Mayagoitia, A.;
 Windus, T.L.; Yang, C.; 
