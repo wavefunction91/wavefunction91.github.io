@@ -25,7 +25,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 [10] Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; 
 de Jong, W.A.; 
 "The Effect of Geometry, Spin and Orbital Optimization in Achieving Accurate, Fully-Correlated Results for Iron-Sulfur Cubanes"
-*J. Chem. Theory Comput.* **2021** ASAP.<br>
+*J. Chem. Theory Comput.* **2022** 18(2), 687–702.<br>
 [[arXiv:2105.01754]](https://arxiv.org/abs/2105.01754)<br>
 [[doi:10.1021/acs.jctc.1c00830]](https://doi.org/10.1021/acs.jctc.1c00830)
 
