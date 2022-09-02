@@ -4,6 +4,42 @@ title: Software
 permalink: /software/
 ---
 
+## GauXC
+- Principle Developer / Maintainer 2019-present
+- [Github](https://github.com/wavefunction91/GauXC)
+
+GauXC is a modern C++ library for massively parallel, GPU accelerated Gaussian basis
+DFT simulations. It is the primary DFT driver for the NWChemEX project as well
+as various others (MPQC, etc).
+
+
+## ExchCXX
+- Principle Developer / Maintainer 2019-present
+- [Github](https://github.com/wavefunction91/GauXC)
+
+ExchCXX is a modern C++ library for GPU accelerated evaluation of exchange-correlation functionals required for DFT simulations. It is the underlying XC implementation
+for GauXC, but can be used for any software which requires spacial evaluation of
+XC functions on GPU accelerators.
+
+
+
+## GauXC
+- Principle Developer / Maintainer 2019-present
+- [Github](https://github.com/wavefunction91/GauXC)
+
+GauXC is a library for massively parallel, GPU accelerated Gaussian basis
+DFT simulations.
+
+
+## NWChemEx
+- Contributor 2018-present
+- [ECP Website](https://www.exascaleproject.org/project/nwchemex-tackling-chemical-materials-and-biomolecular-challenges-in-exascale/)
+
+NWChemEx is an ECP funded quantum chemistry code. My contributions have
+been in the development of their density functional theory implementation
+as well as in the integration of scalable linear algebra solvers suitable
+for exascale computing.
+
 ## Chronus Quantum (ChronusQ)
 - Principle Developer / Maintainer  2014-2018
 - Contributor 2018-present
@@ -18,14 +54,6 @@ currently maintained by the Li Research Group.
 I will contribute to the project, primarily in the context of
 novel solvers for diagoanlization / inverse problems.
 
-## NWChemEx
-- Contributor 2018-present
-- [ECP Website](https://www.exascaleproject.org/project/nwchemex-tackling-chemical-materials-and-biomolecular-challenges-in-exascale/)
-
-NWChemEx is an ECP funded quantum chemistry code. My contributions have
-been in the development of their density functional theory implementation
-as well as in the integration of scalable linear algebra solvers suitable
-for exascale computing.
 
 ## TiledArray
 - Contributor (2020-present)
