@@ -5,17 +5,17 @@ permalink: /about/
 ---
 ![Main]({{site.url}}/_assets/profile.jpg)
 
-David Williams--Young, Ph.D., Computational Chemistry, Materials and Climate Group, Department of Computational Science, Applied Mathematics and Computational Research Division, Lawrence Berkeley National Lab 
+David Williams--Young, Ph.D., Applied Computing for Scientific Discovery Group, Applied Mathematics and Computational Research Division, Lawrence Berkeley National Lab 
 <br>[Public PGP]({{site.url}}/_assets/dbwy_pub.txt) &nbsp;&nbsp; 
 [PGPMIT](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8160257273C4F947) &nbsp;&nbsp;
 (PGP Fingerprint: {{site.gpgfgr}})
 
 
 Currently I am a Research Scientist in the 
-[Computational Chemisty, Materials & Climate Group (CCMC)](https://crd.lbl.gov/divisions/amcr/computational-science-dept/ccmc) in the 
+[Applied Computing for Scientific Discovery Group (ACSD)](https://crd.lbl.gov/divisions/amcr/computational-science-dept/acsd) in the 
 [Applied Mathematics and Computational Research Division (AMCR)](https://crd.lbl.gov/divisions/amcr)
 at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/), 
-([work webpage](https://crd.lbl.gov/divisions/amcr/computational-science-dept/ccmc/staff/staff-members/david-williams-young)).
+([work webpage](https://crd.lbl.gov/divisions/amcr/computational-science-dept/acsd/staff/staff-members/david-williams-young)).
 My current projects center around massively parallel algorithms for electrionic structure theory.
 
 
