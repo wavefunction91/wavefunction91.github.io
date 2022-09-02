@@ -23,13 +23,6 @@ XC functions on GPU accelerators.
 
 
 
-## GauXC
-- Principle Developer / Maintainer 2019-present
-- [Github](https://github.com/wavefunction91/GauXC)
-
-GauXC is a library for massively parallel, GPU accelerated Gaussian basis
-DFT simulations.
-
 
 ## NWChemEx
 - Contributor 2018-present
