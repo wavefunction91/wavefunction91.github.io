@@ -18,6 +18,25 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [**Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
 
+**Preprints:**
+
+Williams-Young, D.B.; Asadchev, A.; Popovici, D.T.; Clark, D.; Waldrop, J.; Windus, T.L.; Valeev, E.F.; de Jong, W.A.;
+"Distributed Memory, GPU Accelerated Fock Construction for Hybrid, Gaussian Basis Density Functional Theory"
+[[arXiv:2303.14280]](https://arxiv.org/abs/2303.14280)
+
+**Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
+"A Parallel, Distributed Memory Implementation of the Adaptive Sampling Configuration Interaction Method"
+[[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)
+
+Gomes, N.; **Williams-Young, D.B.**; de Jong W.A.;
+"Computing the many-body Green's function with adaptive variational quantum dynamics"
+[[arXiv:2302.03093]](https://arxiv.org/abs/2302.03093)
+
+Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, N.M.;
+"Real-Time Krylov Theory for Quantum Computing Algorithms"
+[[arXiv:2208.01063]](https://arxiv.org/abs/2208.01063)
+
+
 
 
 **Lawrence Berkeley National Lab (2018-Present):**
@@ -216,7 +235,7 @@ Valeev, E.F.; Li, X.;
 <br>
 <br>
 
-**Preprints:**
+**Old Preprints:**
 
 **Williams-Young, D.B.**; Li, X.;
 "On the Efficacy and High-Performance Implementation of Quaternion Matrix Multiplication"
