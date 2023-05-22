@@ -41,17 +41,17 @@ Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, 
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
-**Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
+[13] **Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
 "A Parallel, Distributed Memory Implementation of the Adaptive Sampling Configuration Interaction Method"
 *J. Chem. Phys.* **2023** Accepted.<br>
 [[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)
 
-Gomes, N.; **Williams-Young, D.B.**; de Jong W.A.;
+[12] Gomes, N.; **Williams-Young, D.B.**; de Jong W.A.;
 "Computing the many-body Green's function with adaptive variational quantum dynamics"
 *J. Chem. Theory Comput.* **2023** Accepted.<br>
 [[arXiv:2302.03093]](https://arxiv.org/abs/2302.03093)
 
-Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**;  
+[11] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**;  
 Bair, R.; Boschen, J.; Crandall, Z.; Gasperich, K.; Mahmud, Q.I.; Panyala A.;
 Valeev, E.; van Dam, H.; de Jong, W.A.; Windus, T.L.;
 "PluginPlay: Enabling exascale scientific software one module at a time"
