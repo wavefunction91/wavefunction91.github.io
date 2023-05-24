@@ -51,7 +51,7 @@ Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, 
 *J. Chem. Theory Comput.* **2023** Accepted.<br>
 [[arXiv:2302.03093]](https://arxiv.org/abs/2302.03093)
 
-[11] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**;  
+[11] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**; 
 Bair, R.; Boschen, J.; Crandall, Z.; Gasperich, K.; Mahmud, Q.I.; Panyala A.;
 Valeev, E.; van Dam, H.; de Jong, W.A.; Windus, T.L.;
 "PluginPlay: Enabling exascale scientific software one module at a time"
