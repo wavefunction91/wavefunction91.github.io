@@ -28,10 +28,6 @@ Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, 
 "Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
 [[arXiv:2304.09296]](https://arxiv.org/abs/2304.09296)
 
-**Williams-Young, D.B.**; Asadchev, A.; Popovici, D.T.; Clark, D.; Waldrop, J.; Windus, T.L.; Valeev, E.F.; de Jong, W.A.;
-"Distributed Memory, GPU Accelerated Fock Construction for Hybrid, Gaussian Basis Density Functional Theory"
-[[arXiv:2303.14280]](https://arxiv.org/abs/2303.14280)
-
 Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, N.M.;
 "Real-Time Krylov Theory for Quantum Computing Algorithms"
 [[arXiv:2208.01063]](https://arxiv.org/abs/2208.01063)
@@ -41,21 +37,29 @@ Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, 
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
+[14] **Williams-Young, D.B.**; Asadchev, A.; Popovici, D.T.; Clark, D.; Waldrop, J.; Windus, T.L.; Valeev, E.F.; de Jong, W.A.;
+"Distributed Memory, GPU Accelerated Fock Construction for Hybrid, Gaussian Basis Density Functional Theory"
+*J. Chem. Phys.* **2023** Accepted. <br>
+[[arXiv:2303.14280]](https://arxiv.org/abs/2303.14280)
+
 [13] **Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
 "A Parallel, Distributed Memory Implementation of the Adaptive Sampling Configuration Interaction Method"
-*J. Chem. Phys.* **2023** Accepted.<br>
-[[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)
+*J. Chem. Phys.* **2023** 158, 214109. <br>
+[[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)<br>
+[[doi:10.1063/5.0148650]](https://doi.org/10.1063/5.0148650)
 
 [12] Gomes, N.; **Williams-Young, D.B.**; de Jong W.A.;
 "Computing the many-body Green's function with adaptive variational quantum dynamics"
 *J. Chem. Theory Comput.* **2023** Accepted.<br>
 [[arXiv:2302.03093]](https://arxiv.org/abs/2302.03093)
+[[doi:10.1021/acs.jctc.3c00150]](https://doi.org/10.1021/acs.jctc.3c00150)
 
 [11] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**; 
 Bair, R.; Boschen, J.; Crandall, Z.; Gasperich, K.; Mahmud, Q.I.; Panyala A.;
 Valeev, E.; van Dam, H.; de Jong, W.A.; Windus, T.L.;
 "PluginPlay: Enabling exascale scientific software one module at a time"
-*J. Chem. Phys.* **2023** 158, 184801.
+*J. Chem. Phys.* **2023** 158, 184801.<br>
+[[doi:10.1063/5.0147903]](https://doi.org/10.1063/5.0147903)
 
 [10] Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; 
 de Jong, W.A.; 
