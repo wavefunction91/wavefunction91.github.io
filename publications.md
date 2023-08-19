@@ -24,30 +24,41 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 "Approximate Exponential Integrators for Time-Dependent Equation-of-Motion Coupled Cluster Theory"
 [[arXiv:2305.07592]](https://arxiv.org/abs/2305.07592)
 
-Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
-"Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
-[[arXiv:2304.09296]](https://arxiv.org/abs/2304.09296)
-
-Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, N.M.;
-"Real-Time Krylov Theory for Quantum Computing Algorithms"
-[[arXiv:2208.01063]](https://arxiv.org/abs/2208.01063)
-
 
 
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
-[14] **Williams-Young, D.B.**; Asadchev, A.; Popovici, D.T.; Clark, D.; Waldrop, J.; Windus, T.L.; Valeev, E.F.; de Jong, W.A.;
+[17] Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
+"Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
+*J. Chem. Theory Comput.* **2023** Accpeted.
+[[arXiv:2304.09296]](https://arxiv.org/abs/2304.09296)
+[[doi:10.1021/acs.jctc.3c00426]](https://doi.org/10.1021/acs.jctc.3c00426)
+
+[16] **Williams-Young, D.B.**; Asadchev, A.; Popovici, D.T.; Clark, D.; Waldrop, J.; Windus, T.L.; Valeev, E.F.; de Jong, W.A.;
 "Distributed Memory, GPU Accelerated Fock Construction for Hybrid, Gaussian Basis Density Functional Theory"
-*J. Chem. Phys.* **2023** Accepted. <br>
+*J. Chem. Phys.* **2023** 158, 234104. <br>
 [[arXiv:2303.14280]](https://arxiv.org/abs/2303.14280)
 [[doi:10.1063/5.0151070]](https://doi.org/10.1063/5.0151070)
 
-[13] **Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
+[15] **Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
 "A Parallel, Distributed Memory Implementation of the Adaptive Sampling Configuration Interaction Method"
 *J. Chem. Phys.* **2023** 158, 214109. <br>
 [[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)<br>
 [[doi:10.1063/5.0148650]](https://doi.org/10.1063/5.0148650)
+
+[14] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**; 
+Bair, R.; Boschen, J.; Crandall, Z.; Gasperich, K.; Mahmud, Q.I.; Panyala A.;
+Valeev, E.; van Dam, H.; de Jong, W.A.; Windus, T.L.;
+"PluginPlay: Enabling exascale scientific software one module at a time"
+*J. Chem. Phys.* **2023** 158, 184801.<br>
+[[doi:10.1063/5.0147903]](https://doi.org/10.1063/5.0147903)
+
+[13] Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, N.M.;
+"Real-Time Krylov Theory for Quantum Computing Algorithms"
+*Quantum* **2023** 7, 1066. <br>
+[[arXiv:2208.01063]](https://arxiv.org/abs/2208.01063)
+[[doi:10.22331/q-2023-07-25-1066]](https://doi.org/10.22331/q-2023-07-25-1066)
 
 [12] Gomes, N.; **Williams-Young, D.B.**; de Jong W.A.;
 "Computing the many-body Green's function with adaptive variational quantum dynamics"
@@ -55,12 +66,13 @@ Shen, Y.; Klymko, K.; Sud, J.; **Williams-Young, D.B.**; de Jong, W.A.; Tubman, 
 [[arXiv:2302.03093]](https://arxiv.org/abs/2302.03093)
 [[doi:10.1021/acs.jctc.3c00150]](https://doi.org/10.1021/acs.jctc.3c00150)
 
-[11] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**; 
-Bair, R.; Boschen, J.; Crandall, Z.; Gasperich, K.; Mahmud, Q.I.; Panyala A.;
-Valeev, E.; van Dam, H.; de Jong, W.A.; Windus, T.L.;
-"PluginPlay: Enabling exascale scientific software one module at a time"
-*J. Chem. Phys.* **2023** 158, 184801.<br>
-[[doi:10.1063/5.0147903]](https://doi.org/10.1063/5.0147903)
+[11] Sid-Lakhdar, W.; Cayrols, S.; Bielich, D.; Abdelfattah, A.; Luszczek, P.; 
+Gates, M.; Tomov, S.; Johansen, H.; **Williams-Young, D.B.**; Davis, T.; 
+Dongarra, J.; Anzt, H.;
+"PAQR: Pivoting Avoiding QR factorization"
+*2023 IEEE International Parallel and Distributed Processing Symposium (IPDPS)*, 
+St. Petersburg, FL, USA, **2023**, pp. 322-332.<br>
+[[doi:10.1109/IPDPS54959.2023.00040]](https://doi.org/10.1109/IPDPS54959.2023.00040)
 
 [10] Mejuto-Zaera, C.; Tzeli, D; **Williams-Young, D.B.**; Tubman, N.M; Matoušek, M.; Brabec, J.; Veis, L.; Xantheas, S; 
 de Jong, W.A.; 
