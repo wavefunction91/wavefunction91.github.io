@@ -29,6 +29,14 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
+[18] Di Felice, R.; Mayes, M.; Richard, R.; **Williams-Young, D.B.**; Chan, G.K.L; de Jong, W.; 
+Govind, N.; Head-Gordon, M.; Hermes, M.; Kowalski, K.; Li, X.; Lischka, H.; 
+Mueller, K.; Mutlu, E.; Niklasson, A.; Pederson, M.; Peng, B.; Shepard, R.; 
+Valeev, E.; van Schilfgaarde, M.; Vlaisavljevich, B.; Windus, T.; Xantheas, S.; 
+Zhang, X.; Zimmerman, P.;
+"A Perspective on Sustainable Computational Chemistry Software Development and Integration"
+*J. Chem. Theory Comput.*; **2023** Accepted.
+
 [17] Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
 "Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
 *J. Chem. Theory Comput.* **2023** Accpeted.
