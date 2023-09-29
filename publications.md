@@ -36,6 +36,7 @@ Valeev, E.; van Schilfgaarde, M.; Vlaisavljevich, B.; Windus, T.; Xantheas, S.;
 Zhang, X.; Zimmerman, P.;
 "A Perspective on Sustainable Computational Chemistry Software Development and Integration"
 *J. Chem. Theory Comput.*; **2023** Accepted.
+[[doi:10.1021/acs.jctc.3c00419]](https://doi.org/10.1021/acs.jctc.3c00419)
 
 [17] Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
 "Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
