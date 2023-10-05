@@ -35,12 +35,12 @@ Mueller, K.; Mutlu, E.; Niklasson, A.; Pederson, M.; Peng, B.; Shepard, R.;
 Valeev, E.; van Schilfgaarde, M.; Vlaisavljevich, B.; Windus, T.; Xantheas, S.; 
 Zhang, X.; Zimmerman, P.;
 "A Perspective on Sustainable Computational Chemistry Software Development and Integration"
-*J. Chem. Theory Comput.*; **2023** Accepted.
+*J. Chem. Theory Comput.*; **2023** Accepted.<br>
 [[doi:10.1021/acs.jctc.3c00419]](https://doi.org/10.1021/acs.jctc.3c00419)
 
 [17] Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
 "Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
-*J. Chem. Theory Comput.* **2023** Accpeted.
+*J. Chem. Theory Comput.* **2023** 19, 17, 5872–5885.<br>
 [[arXiv:2304.09296]](https://arxiv.org/abs/2304.09296)
 [[doi:10.1021/acs.jctc.3c00426]](https://doi.org/10.1021/acs.jctc.3c00426)
 
@@ -53,7 +53,7 @@ Zhang, X.; Zimmerman, P.;
 [15] **Williams-Young, D.B.**; Tubman, N.M.; Mejuto-Zaera, C.; de Jong W.A.;
 "A Parallel, Distributed Memory Implementation of the Adaptive Sampling Configuration Interaction Method"
 *J. Chem. Phys.* **2023** 158, 214109. <br>
-[[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)<br>
+[[arXiv:2303.05688]](https://arxiv.org/abs/2303.05688)
 [[doi:10.1063/5.0148650]](https://doi.org/10.1063/5.0148650)
 
 [14] Richard, R.M.; Keipert, K.; Waldrop, J.; Keçeli, M.;  **Williams-Young, D.B.**; 
@@ -270,12 +270,6 @@ Valeev, E.F.; Li, X.;
 <br> 
 <br> 
 
-
-
-**Submitted Manusripts:**
-
-<br>
-<br>
 
 **Old Preprints:**
 
