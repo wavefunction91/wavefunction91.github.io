@@ -20,14 +20,16 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Preprints:**
 
-**Williams-Young, D.B.**; Yuwono, S.; DePrince III, A.E.; Yang, C.;
-"Approximate Exponential Integrators for Time-Dependent Equation-of-Motion Coupled Cluster Theory"
-[[arXiv:2305.07592]](https://arxiv.org/abs/2305.07592)
 
 
 
 
 **Lawrence Berkeley National Lab (2018-Present):**
+
+[19] **Williams-Young, D.B.**; Yuwono, S.; DePrince III, A.E.; Yang, C.;
+"Approximate Exponential Integrators for Time-Dependent Equation-of-Motion Coupled Cluster Theory"
+*J. Chem. Theory Comput.*; **2023** Accepted.<br>
+[[arXiv:2305.07592]](https://arxiv.org/abs/2305.07592)
 
 [18] Di Felice, R.; Mayes, M.; Richard, R.; **Williams-Young, D.B.**; Chan, G.K.L; de Jong, W.; 
 Govind, N.; Head-Gordon, M.; Hermes, M.; Kowalski, K.; Li, X.; Lischka, H.; 
