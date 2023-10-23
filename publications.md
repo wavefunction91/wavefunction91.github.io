@@ -114,7 +114,7 @@ Daily, J.; de Jong, W.A.; Dunning, T.; Govind, N.; Harrison, R.J.;
 Keceli, M.; Keipert, K.; Krishnamoorthy, S.; Kumar, S.; Mutlu, E.; 
 Palmer, B.; Panyala, A.; Peng, B.; Richard, R.M.; Straatsma, T.P.; 
 Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.; 
-**Williams-Youngm D.B.**; Yang, C.; Zalewski, M.; Windus, T.L.;
+**Williams-Young, D.B.**; Yang, C.; Zalewski, M.; Windus, T.L.;
 "From NWChem to NWChemEx: Evolving with the Computational Chemistry Landscape" 
 *Chem. Rev.*; **2021**, 121, 8, 4962–-4998<br>
 [[doi:10.1021/acs.chemrev.0c00998]](https://doi.org/10.1021/acs.chemrev.0c00998)<br>
