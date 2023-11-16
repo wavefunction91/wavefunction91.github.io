@@ -20,7 +20,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Preprints:**
 
-
+... Stay Tuned ...
 
 
 
@@ -38,7 +38,7 @@ Valeev, E.; van Schilfgaarde, M.; Vlaisavljevich, B.; Windus, T.; Xantheas, S.;
 Zhang, X.; Zimmerman, P.;
 "A Perspective on Sustainable Computational Chemistry Software Development and Integration"
 *J. Chem. Theory Comput.*; **2023** 19, 20, 7056–7076.<br>
-[[doi:10.1021/acs.jctc.3c00419]](https://doi.org/10.1021/acs.jctc.3c00419)
+[[(open access) doi:10.1021/acs.jctc.3c00419]](https://doi.org/10.1021/acs.jctc.3c00419)
 
 [17] Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
 "Using Diffusion Maps to Analyze Reaction Dynamics for a Hydrogen Combustion Benchmark Dataset"
@@ -122,13 +122,13 @@ Sushko, P.; Valeev, E.F.; Valiev, M.; van Dam, H.J.J.; Waldrop, J.M.;
 [5] Yang. C.; Brabec, J.; Veis, L.; **Williams-Young, D.B.**; Kowalski, K.;
 "Solving Coupled Cluster Equations by the Newton Krylov Method"
 *Front. Chem.*; **2020**; 8:590184<br>
-[[doi:10.3389/fchem.2020.590184]](https://doi.org/10.3389/fchem.2020.590184) <br>
+[[(open access) doi:10.3389/fchem.2020.590184]](https://doi.org/10.3389/fchem.2020.590184) <br>
 
 [4] **Williams-Young, D.B.**; de Jong, W.A.; van Dam, H.J.J.; Yang, C.;
 "On the Efficient Evaluation of the Exchange Correlation Potential on Graphics Processing Unit Clusters"
 *Front. Chem.*; **2020**; 8:581058<br>
 [[arXiv:2007.03143]](https://arxiv.org/abs/2007.03143) <br>
-[[doi:10.3389/fchem.2020.581058]](https://doi.org/10.3389/fchem.2020.581058) <br>
+[[(open access) doi:10.3389/fchem.2020.581058]](https://doi.org/10.3389/fchem.2020.581058) <br>
 [[pdf]](https://arxiv.org/pdf/2007.03143.pdf) <br>
 
 [3] **Williams-Young, D.B.**; Beckman, P.G.; Yang, C.;
