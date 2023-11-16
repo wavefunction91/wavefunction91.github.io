@@ -37,7 +37,7 @@ Mueller, K.; Mutlu, E.; Niklasson, A.; Pederson, M.; Peng, B.; Shepard, R.;
 Valeev, E.; van Schilfgaarde, M.; Vlaisavljevich, B.; Windus, T.; Xantheas, S.; 
 Zhang, X.; Zimmerman, P.;
 "A Perspective on Sustainable Computational Chemistry Software Development and Integration"
-*J. Chem. Theory Comput.*; **2023** Accepted.<br>
+*J. Chem. Theory Comput.*; **2023** 19, 20, 7056–7076.<br>
 [[doi:10.1021/acs.jctc.3c00419]](https://doi.org/10.1021/acs.jctc.3c00419)
 
 [17] Ko, T.; Heindel, J.; Guan, X.; Head-Gordon, T.; **Williams-Young, D.B.**; Yang, C.;
