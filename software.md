@@ -36,7 +36,7 @@ for exascale computing.
 ## Chronus Quantum (ChronusQ)
 - Principle Developer / Maintainer  2014-2018
 - Contributor 2018-present
-- [Github](https://github.com/liresearchgroup/chronusq_public)
+- [Github](https://github.com/xsligroup/chronusq_public)
 
 ChronusQ is a production quantum chemistry software package 
 written in C++11 specializing in electronic dynamics and 
