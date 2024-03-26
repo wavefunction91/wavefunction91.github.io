@@ -26,11 +26,6 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
-[20] Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**; Tubman, N.M.; Van Beeumen, R.;
-"Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
-*2023 IEEE International Conference on Quantum Computing and Engineering (QCE)*; **2023** 302-303.
-[[doi:10.1109/QCE57702.2023.10253]](https://doi.org/10.1109/QCE57702.2023.10253)
-
 [19] **Williams-Young, D.B.**; Yuwono, S.; DePrince III, A.E.; Yang, C.;
 "Approximate Exponential Integrators for Time-Dependent Equation-of-Motion Coupled Cluster Theory"
 *J. Chem. Theory Comput.*; **2023** 19, 24, 9177–9186.<br>
