@@ -20,7 +20,10 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Preprints:**
 
-... Stay Tuned ...
+
+Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
+"Capturing electronic correlations in electron-phonon interactions in molecular systems with the GW approximation"
+[[arXiv:2403.08240]](https://arxiv.org/abs/2403.08240)
 
 
 
