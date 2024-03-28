@@ -25,6 +25,9 @@ Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
 "Capturing electronic correlations in electron-phonon interactions in molecular systems with the GW approximation"
 [[arXiv:2403.08240]](https://arxiv.org/abs/2403.08240)
 
+Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**; Tubman, N.M.; Van Beeumen, R.;
+"stimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
+[[arXiv:2306.01858]](https://arxiv.org/abs/2306.01858)
 
 
 **Lawrence Berkeley National Lab (2018-Present):**
