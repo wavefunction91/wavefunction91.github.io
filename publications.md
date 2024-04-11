@@ -20,6 +20,9 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Preprints:**
 
+Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
+"Diagnosing local minima and accelerating convergence of variational quantum eigensolvers with quantum subspace techniques"
+[[arXiv:2404.06534]](https://arxiv.org/abs/2404.06534)
 
 Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
 "Capturing electronic correlations in electron-phonon interactions in molecular systems with the GW approximation"
