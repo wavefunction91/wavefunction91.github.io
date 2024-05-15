@@ -35,6 +35,16 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 
 **Lawrence Berkeley National Lab (2018-Present):**
 
+[20] Blum, V.; Asahi, R.; Autschbach, J.; Bannwarth, C.; Bihlmayer, G.; Blügel, S.; Burns, L. A.;
+Crawford, T. D.; Dawson, W.; de Jong, W. A.; Draxl, C.; Filippi, C.; Genovese, L.; Giannozzi, P.;
+Govind, N.; Hammes-Schiffer, S.; Hammond, J. R.; Hourahine, B.; Jain, A.; Kanai, Y.; Kent, P. R.
+C.; Larsen, A. H.; Lehtola, S.; Li, X.; Lindh, R.; Maeda, S.; Makri, N.; Moussa, J.; Nakajima, T.;
+Nash, J. A.; Oliveira, M. J. T.; Patel, P. D.; Pizzi, G.; Pourtois, G.; Pritchard, B. P.; Rabani, E.;
+Reiher, M.; Reining, L.; Ren, X.; Rossi, M.; Schlegel, H. B.; Seriani, N.; Slipchenko, L. V.; Thom,
+A.; Valeev, E. F.; Van Troeye, B.; Visscher, L.; Vlcek, V.; Werner, H.-J.; **Williams–Young, D. B.**;
+Windus, T. “Roadmap on methods and software for electronic structure based simulations in chemistry
+and materials” *Electronic Structure*; **2024**. Accepted.
+
 [19] **Williams-Young, D.B.**; Yuwono, S.; DePrince III, A.E.; Yang, C.;
 "Approximate Exponential Integrators for Time-Dependent Equation-of-Motion Coupled Cluster Theory"
 *J. Chem. Theory Comput.*; **2023** 19, 24, 9177–9186.<br>
