@@ -20,6 +20,10 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Submitted Manuscripts / Preprints:**
 
+
+Kovtun, M.; Lambros, E.; Liu, A.; Tang, D.; **Williams-Young, D.B.**; Li, X.;
+``\emph{Accelerating Relativistic Exact-Two-Component Density Functional Theory Calculations with Graphical Processing Units}"
+
 Bylaska, E.; Panyala, A.; Bauman, N.; Peng, B.; Pathak, H.; Mejia-Rodriguez, D.; Govind, N.; **Williams-Young, D.B.**; Apra, E.; 
 Bagusetty, A.; Mutlu, E.; Jackson, K.; Baruah, T.; Yamamoto, Y.; Pederson, M.; Withanage, K.; Pedroza-Montero, J.; 
 Bilbrey, J.; Choudhury, S.; Firoz, J.; Herman, K.; Xantheas, S.; Rigor, P.; Vila, F.; Rehr, J.; Fung, M.; Grofe, A.; 
