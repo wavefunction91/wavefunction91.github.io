@@ -45,7 +45,7 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 
 **Lawrence Berkeley National Lab (2018-2024):**
 
-[22] Poole, D.; \me; Jiang, A.; Glick, Z.; Sherrill, C.D..;
+[22] Poole, D.; **Williams-Young, D.B.**; Jiang, A.; Glick, Z.; Sherrill, C.D.;
 "A modular, composite framework for the utilization of reduced-scaling Coulomb and Exchange construction algorithms: Design and implementation"
 *J. Chem. Phys.*; **2024**. Accepted.<br>
 
