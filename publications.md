@@ -45,6 +45,10 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 
 **Lawrence Berkeley National Lab (2018-2024):**
 
+[22] Poole, D.; \me; Jiang, A.; Glick, Z.; Sherrill, C.D..;
+"A modular, composite framework for the utilization of reduced-scaling Coulomb and Exchange construction algorithms: Design and implementation"
+*J. Chem. Phys.*; **2024**. Accepted.<br>
+
 [21] Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
 "Influence of Electronic Correlations on Electron–Phonon Interactions of Molecular Systems with the GW and Coupled Cluster Methods"
 *J. Chem. Theory Comput.*; **2024**. Accepted.<br>
