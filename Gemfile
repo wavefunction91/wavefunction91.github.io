@@ -25,3 +25,5 @@ gem "minima"
 gem "kramdown", ">= 2.3.0"
 gem "json", ">= 2.3.0"
 gem "nokogiri", ">= 1.11.0.rc4"
+
+gem "webrick", "~> 1.8"

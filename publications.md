@@ -30,10 +30,6 @@ Bilbrey, J.; Choudhury, S.; Firoz, J.; Herman, K.; Xantheas, S.; Rigor, P.; Vila
 Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
 "Electronic structure simulations in the cloud computing environment"
 
-Burton, H.; Dong, S.; Ghosh, S.; Gu, B.; Jackson, N.; Keefer, D.; Lu, Y.; Monroe, J.; Peng, B.; Pieri, E.; 
-Spackman, P.; Vacher, M.; Vuckovic, S.; **Williams-Young, D.B.**; Yang, Z.; Yue, S.; Zerze, G.; Zhu, T.;
-"Editorial: JCTC Early Career Board Selects"
-
 Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
 "Diagnosing local minima and accelerating convergence of variational quantum eigensolvers with quantum subspace techniques"
 [[arXiv:2404.06534]](https://arxiv.org/abs/2404.06534)
@@ -45,13 +41,20 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 
 **Lawrence Berkeley National Lab (2018-2024):**
 
+[23] Burton, H.; Dong, S.; Ghosh, S.; Gu, B.; Jackson, N.; Keefer, D.; Lu, Y.; Monroe, J.; Peng, B.; Pieri, E.; 
+Spackman, P.; Vacher, M.; Vuckovic, S.; **Williams-Young, D.B.**; Yang, Z.; Yue, S.; Zerze, G.; Zhu, T.;
+"Editorial: JCTC Early Career Board Selects"
+*J. Chem. Theory Comput.*; **2024** <br>
+[[link]](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00787)
+
 [22] Poole, D.; **Williams-Young, D.B.**; Jiang, A.; Glick, Z.; Sherrill, C.D.;
 "A modular, composite framework for the utilization of reduced-scaling Coulomb and Exchange construction algorithms: Design and implementation"
-*J. Chem. Phys.*; **2024**. Accepted.<br>
+*J. Chem. Phys.*; **2024**. 161, 052503.<br>
+[[doi:10.1063/5.0216760]](https://doi.org/10.1063/5.0216760)
 
 [21] Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
 "Influence of Electronic Correlations on Electron–Phonon Interactions of Molecular Systems with the GW and Coupled Cluster Methods"
-*J. Chem. Theory Comput.*; **2024**. Accepted.<br>
+*J. Chem. Theory Comput.*; **2024**. 20, 14, 6175–6183.<br>
 [[arXiv:2403.08240]](https://arxiv.org/abs/2403.08240)
 [[doi:10.1021/acs.jctc.4c00327]](https://doi.org/10.1021/acs.jctc.4c00327)
 
