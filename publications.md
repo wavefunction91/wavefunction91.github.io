@@ -21,15 +21,6 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 **Submitted Manuscripts / Preprints:**
 
 
-Kovtun, M.; Lambros, E.; Liu, A.; Tang, D.; **Williams-Young, D.B.**; Li, X.;
-"Accelerating Relativistic Exact-Two-Component Density Functional Theory Calculations with Graphical Processing Units"
-
-Bylaska, E.; Panyala, A.; Bauman, N.; Peng, B.; Pathak, H.; Mejia-Rodriguez, D.; Govind, N.; **Williams-Young, D.B.**; Apra, E.; 
-Bagusetty, A.; Mutlu, E.; Jackson, K.; Baruah, T.; Yamamoto, Y.; Pederson, M.; Withanage, K.; Pedroza-Montero, J.; 
-Bilbrey, J.; Choudhury, S.; Firoz, J.; Herman, K.; Xantheas, S.; Rigor, P.; Vila, F.; Rehr, J.; Fung, M.; Grofe, A.; 
-Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
-"Electronic structure simulations in the cloud computing environment"
-
 Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
 "Diagnosing local minima and accelerating convergence of variational quantum eigensolvers with quantum subspace techniques"
 [[arXiv:2404.06534]](https://arxiv.org/abs/2404.06534)
@@ -40,6 +31,18 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 
 
 **Lawrence Berkeley National Lab (2018-2024):**
+
+[25] Bylaska, E.; Panyala, A.; Bauman, N.; Peng, B.; Pathak, H.; Mejia-Rodriguez, D.; Govind, N.; **Williams-Young, D.B.**; Apra, E.; 
+Bagusetty, A.; Mutlu, E.; Jackson, K.; Baruah, T.; Yamamoto, Y.; Pederson, M.; Withanage, K.; Pedroza-Montero, J.; 
+Bilbrey, J.; Choudhury, S.; Firoz, J.; Herman, K.; Xantheas, S.; Rigor, P.; Vila, F.; Rehr, J.; Fung, M.; Grofe, A.; 
+Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
+"Electronic structure simulations in the cloud computing environment"
+*J. Chem. Phys.* **2024**. Accepted.
+
+[24] Kovtun, M.; Lambros, E.; Liu, A.; Tang, D.; **Williams-Young, D.B.**; Li, X.;
+"Accelerating Relativistic Exact-Two-Component Density Functional Theory Calculations with Graphical Processing Units"
+*J. Chem. Theory Comput.* **2024** 20, 18, 7694-7699. <br>
+[[doi:10.1021/acs.jctc.4c00843]](https://doi.org/10.1021/acs.jctc.4c00843)
 
 [23] Burton, H.; Dong, S.; Ghosh, S.; Gu, B.; Jackson, N.; Keefer, D.; Lu, Y.; Monroe, J.; Peng, B.; Pieri, E.; 
 Spackman, P.; Vacher, M.; Vuckovic, S.; **Williams-Young, D.B.**; Yang, Z.; Yue, S.; Zerze, G.; Zhu, T.;
