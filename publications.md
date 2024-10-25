@@ -20,11 +20,6 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Submitted Manuscripts / Preprints:**
 
-
-Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
-"Diagnosing local minima and accelerating convergence of variational quantum eigensolvers with quantum subspace techniques"
-[[arXiv:2404.06534]](https://arxiv.org/abs/2404.06534)
-
 Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**; Tubman, N.M.; Van Beeumen, R.;
 "Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
 [[arXiv:2306.01858]](https://arxiv.org/abs/2306.01858)
@@ -32,12 +27,19 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 
 **Lawrence Berkeley National Lab (2018-2024):**
 
+[26] Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
+"Diagnosing local minima and accelerating convergence of variational quantum eigensolvers with quantum subspace techniques"
+*J. Chem. Phys.* **2024**. 161, 164103.<br>
+[[arXiv:2404.06534]](https://arxiv.org/abs/2404.06534)
+[[doi:10.1063/5.0224883]](https://doi.org/10.1063/5.0224883)
+
 [25] Bylaska, E.; Panyala, A.; Bauman, N.; Peng, B.; Pathak, H.; Mejia-Rodriguez, D.; Govind, N.; **Williams-Young, D.B.**; Apra, E.; 
 Bagusetty, A.; Mutlu, E.; Jackson, K.; Baruah, T.; Yamamoto, Y.; Pederson, M.; Withanage, K.; Pedroza-Montero, J.; 
 Bilbrey, J.; Choudhury, S.; Firoz, J.; Herman, K.; Xantheas, S.; Rigor, P.; Vila, F.; Rehr, J.; Fung, M.; Grofe, A.; 
 Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
 "Electronic structure simulations in the cloud computing environment"
-*J. Chem. Phys.* **2024**. Accepted.
+*J. Chem. Phys.* **2024**. 161, 150902.<br>
+[[doi:10.1063/5.0226437]](https://doi.org/10.1063/5.0226437)
 
 [24] Kovtun, M.; Lambros, E.; Liu, A.; Tang, D.; **Williams-Young, D.B.**; Li, X.;
 "Accelerating Relativistic Exact-Two-Component Density Functional Theory Calculations with Graphical Processing Units"

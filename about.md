@@ -20,7 +20,8 @@ primarily lie at the intersection of heterogenous, accelerated computing,
 computational physics, and numerical linear algebra. Currently, I am a
 Principal Software Engineer in the 
 [Azure Quantum Elements Group](https://quantum.microsoft.com/en-us/quantum-elements/product-overview)
-at Microsoft.
+at Microsoft, where I am the Technical Lead for the 
+Accelerated DFT product.
 
 Over the years, I've architected and/or contributed to a number of computational
 chemistry software packages, including 
