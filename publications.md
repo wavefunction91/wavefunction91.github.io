@@ -50,7 +50,7 @@ Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
 Spackman, P.; Vacher, M.; Vuckovic, S.; **Williams-Young, D.B.**; Yang, Z.; Yue, S.; Zerze, G.; Zhu, T.;
 "Editorial: JCTC Early Career Board Selects"
 *J. Chem. Theory Comput.*; **2024** <br>
-[[link]](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00787)
+[[doi:10.1021/acs.jctc.4c00787]](https://doi.org/10.1021/acs.jctc.4c00787)
 
 [22] Poole, D.; **Williams-Young, D.B.**; Jiang, A.; Glick, Z.; Sherrill, C.D.;
 "A modular, composite framework for the utilization of reduced-scaling Coulomb and Exchange construction algorithms: Design and implementation"
