@@ -24,6 +24,14 @@ Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**
 "Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
 [[arXiv:2306.01858]](https://arxiv.org/abs/2306.01858)
 
+**Microsoft Corporation (2024-present):**
+
+[1] Ju. F.; Wei, X.; Huang, L.; Jenkins, A.J.J; Xia, L.; Zhang, J.; Zhu, J.; Yang, H.; Shao, B.; 
+Dai, P.; **Williams-Young, D.B.**; Mayya, A.; Hooshmand, Z.; Efimovskaya, A.; Baker, N.A.; Troyer, M.;
+Liu, H.;
+"Acceleration without Disruption: DFT Software as a Service"
+*J. Chem. Theory Comput.* **2024**, ASAP. 
+[[doi:10.1021/acs.jctc.4c00940]](https://doi.org/10.1021/acs.jctc.4c00940)
 
 **Lawrence Berkeley National Lab (2018-2024):**
 
