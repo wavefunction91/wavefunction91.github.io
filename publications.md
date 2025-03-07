@@ -18,11 +18,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 [**Dissertation**]({{ site.url  }}/_assets/WilliamsYoung_washington_0250E_18493.pdf)
 
-**Submitted Manuscripts / Preprints:**
-
-Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**; Tubman, N.M.; Van Beeumen, R.;
-"Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
-[[arXiv:2306.01858]](https://arxiv.org/abs/2306.01858)
+[//]: <> (**Submitted Manuscripts / Preprints:**)
 
 **Microsoft Corporation (2024-present):**
 
@@ -35,13 +31,13 @@ Liu, H.;
 
 **Lawrence Berkeley National Lab (2018-2024):**
 
-[26] Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
-"Diagnosing local minima and accelerating convergence of variational quantum eigensolvers with quantum subspace techniques"
+[27] Hirsbrunner, M.R.; Mullinax, J.W.; Shen, Y.; **Williams-Young, D.B.**;  Klymko, K.; Van Beeumen, R.; Tubman, N.M.;
+"A circuit-generated quantum subspace algorithm for the variational quantum eigensolver"
 *J. Chem. Phys.* **2024**. 161, 164103.<br>
 [[arXiv:2404.06534]](https://arxiv.org/abs/2404.06534)
 [[doi:10.1063/5.0224883]](https://doi.org/10.1063/5.0224883)
 
-[25] Bylaska, E.; Panyala, A.; Bauman, N.; Peng, B.; Pathak, H.; Mejia-Rodriguez, D.; Govind, N.; **Williams-Young, D.B.**; Apra, E.; 
+[26] Bylaska, E.; Panyala, A.; Bauman, N.; Peng, B.; Pathak, H.; Mejia-Rodriguez, D.; Govind, N.; **Williams-Young, D.B.**; Apra, E.; 
 Bagusetty, A.; Mutlu, E.; Jackson, K.; Baruah, T.; Yamamoto, Y.; Pederson, M.; Withanage, K.; Pedroza-Montero, J.; 
 Bilbrey, J.; Choudhury, S.; Firoz, J.; Herman, K.; Xantheas, S.; Rigor, P.; Vila, F.; Rehr, J.; Fung, M.; Grofe, A.; 
 Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
@@ -49,29 +45,29 @@ Johnston, C.; Baker, N.; Kaneko, K.; Liu, H.; Kowalski, K.;
 *J. Chem. Phys.* **2024**. 161, 150902.<br>
 [[doi:10.1063/5.0226437]](https://doi.org/10.1063/5.0226437)
 
-[24] Kovtun, M.; Lambros, E.; Liu, A.; Tang, D.; **Williams-Young, D.B.**; Li, X.;
+[25] Kovtun, M.; Lambros, E.; Liu, A.; Tang, D.; **Williams-Young, D.B.**; Li, X.;
 "Accelerating Relativistic Exact-Two-Component Density Functional Theory Calculations with Graphical Processing Units"
 *J. Chem. Theory Comput.* **2024** 20, 18, 7694-7699. <br>
 [[doi:10.1021/acs.jctc.4c00843]](https://doi.org/10.1021/acs.jctc.4c00843)
 
-[23] Burton, H.; Dong, S.; Ghosh, S.; Gu, B.; Jackson, N.; Keefer, D.; Lu, Y.; Monroe, J.; Peng, B.; Pieri, E.; 
+[24] Burton, H.; Dong, S.; Ghosh, S.; Gu, B.; Jackson, N.; Keefer, D.; Lu, Y.; Monroe, J.; Peng, B.; Pieri, E.; 
 Spackman, P.; Vacher, M.; Vuckovic, S.; **Williams-Young, D.B.**; Yang, Z.; Yue, S.; Zerze, G.; Zhu, T.;
 "Editorial: JCTC Early Career Board Selects"
 *J. Chem. Theory Comput.*; **2024** <br>
 [[doi:10.1021/acs.jctc.4c00787]](https://doi.org/10.1021/acs.jctc.4c00787)
 
-[22] Poole, D.; **Williams-Young, D.B.**; Jiang, A.; Glick, Z.; Sherrill, C.D.;
+[23] Poole, D.; **Williams-Young, D.B.**; Jiang, A.; Glick, Z.; Sherrill, C.D.;
 "A modular, composite framework for the utilization of reduced-scaling Coulomb and Exchange construction algorithms: Design and implementation"
 *J. Chem. Phys.*; **2024**. 161, 052503.<br>
 [[doi:10.1063/5.0216760]](https://doi.org/10.1063/5.0216760)
 
-[21] Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
+[22] Alvertis, A.M.; **Williams-Young, D.B.**; Bruneval, F.; Neaton, J.B.;
 "Influence of Electronic Correlations on Electron–Phonon Interactions of Molecular Systems with the GW and Coupled Cluster Methods"
 *J. Chem. Theory Comput.*; **2024**. 20, 14, 6175–6183.<br>
 [[arXiv:2403.08240]](https://arxiv.org/abs/2403.08240)
 [[doi:10.1021/acs.jctc.4c00327]](https://doi.org/10.1021/acs.jctc.4c00327)
 
-[20] Blum, V.; Asahi, R.; Autschbach, J.; Bannwarth, C.; Bihlmayer, G.; Blügel, S.; Burns, L. A.;
+[21] Blum, V.; Asahi, R.; Autschbach, J.; Bannwarth, C.; Bihlmayer, G.; Blügel, S.; Burns, L. A.;
 Crawford, T. D.; Dawson, W.; de Jong, W. A.; Draxl, C.; Filippi, C.; Genovese, L.; Giannozzi, P.;
 Govind, N.; Hammes-Schiffer, S.; Hammond, J. R.; Hourahine, B.; Jain, A.; Kanai, Y.; Kent, P. R.
 C.; Larsen, A. H.; Lehtola, S.; Li, X.; Lindh, R.; Maeda, S.; Makri, N.; Moussa, J.; Nakajima, T.;
@@ -81,6 +77,13 @@ A.; Valeev, E. F.; Van Troeye, B.; Visscher, L.; Vlcek, V.; Werner, H.-J.; **Wil
 Windus, T. “Roadmap on methods and software for electronic structure based simulations in chemistry
 and materials” *Electronic Structure*; **2024**.<br>
 [[doi:10.1088/2516-1075/ad48ec]](https:/doi.org/10.1088/2516-1075/ad48ec)
+
+[20] Shen, Y.; Camps, D.; Szasz, A.; Darbha, S.; Klymko, K.; **Williams-Young, D.B.**; Tubman, N.M.; Van Beeumen, R.;
+"Estimating Eigenenergies from Quantum Dynamics: A Unified Noise-Resilient Measurement-Driven Approach"
+*2023 IEEE International Conference on Quantum Computing and Engineering (QCE)*;
+**2023**<br>
+[[arXiv:2306.01858]](https://arxiv.org/abs/2306.01858)
+[[doi:10.1109/QCE57702.2023.10253]](https://doi.org/10.1109/QCE57702.2023.10253)
 
 [19] **Williams-Young, D.B.**; Yuwono, S.; DePrince III, A.E.; Yang, C.;
 "Approximate Exponential Integrators for Time-Dependent Equation-of-Motion Coupled Cluster Theory"
