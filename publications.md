@@ -26,7 +26,7 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 Dai, P.; **Williams-Young, D.B.**; Mayya, A.; Hooshmand, Z.; Efimovskaya, A.; Baker, N.A.; Troyer, M.;
 Liu, H.;
 "Acceleration without Disruption: DFT Software as a Service"
-*J. Chem. Theory Comput.* **2024**, ASAP. 
+*J. Chem. Theory Comput.* **2024**, 20, 24, 10838–10851.
 [[doi:10.1021/acs.jctc.4c00940]](https://doi.org/10.1021/acs.jctc.4c00940)
 
 **Lawrence Berkeley National Lab (2018-2024):**
