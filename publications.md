@@ -22,6 +22,12 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Microsoft Corporation (2024-present):**
 
+[2] Luise, G.; Huang, C.-W.;  Vogels, T.; Kooi, D.P.; Ehlert, S.; Lanius, S.; Giesbertz, K.J.H.; Karton, A.; 
+Gunceler, D.; Stanley, M.; Bruinsma, W.P.; Huang, L.; Wei, X.; Torres, J.G.; Katbashev, A.; Máté, B.; Kaba, S.-O.; 
+Sordillo, R.; Chen, Y.; **Williams-Young, D.B.**; Bishop, C.M.; Hermann, J.; van den Berg, R.; Gori-Giorgi, P.;
+"Accurate and scalable exchange-correlation with deep learning"
+[[arXiv:2506.14665]](https://arxiv.org/abs/2506.14665)
+
 [1] Ju. F.; Wei, X.; Huang, L.; Jenkins, A.J.J; Xia, L.; Zhang, J.; Zhu, J.; Yang, H.; Shao, B.; 
 Dai, P.; **Williams-Young, D.B.**; Mayya, A.; Hooshmand, Z.; Efimovskaya, A.; Baker, N.A.; Troyer, M.;
 Liu, H.;
