@@ -22,6 +22,13 @@ found [here]({{ site.url  }}/_assets/DBWY.bib).
 
 **Microsoft Corporation (2024-present):**
 
+[3] Baker, N.A.; Bilodeau, B.; Chen, C.; Chen, Y.; Eckhoff, M.; Efimovskaya, A.; Gasparotto, P.; van Gerwen, P.;
+Gong, R.; Hoang, K.; Hooshmand, Z.; Jenkins, A.J.; Johnston, C.S.N.; Li, R.R.; Liang, J.; Liu, H.; Mills, A.;
+Mörchen, M.; Nishibuchi, G.; Sun, C.; Ticehurst, B.; Troyer, M.; Unsleber, J.P.; Wernli, S.;
+**Williams-Young, D.B.**; Zhang, B.;
+"QDK/Chemistry: A Modular Toolkit for Quantum Chemistry Applications"
+[[arXiv:2601.15253]](https://arxiv.org/abs/2601.15253)
+
 [2] Luise, G.; Huang, C.-W.;  Vogels, T.; Kooi, D.P.; Ehlert, S.; Lanius, S.; Giesbertz, K.J.H.; Karton, A.; 
 Gunceler, D.; Stanley, M.; Bruinsma, W.P.; Huang, L.; Wei, X.; Torres, J.G.; Katbashev, A.; Máté, B.; Kaba, S.-O.; 
 Sordillo, R.; Chen, Y.; **Williams-Young, D.B.**; Bishop, C.M.; Hermann, J.; van den Berg, R.; Gori-Giorgi, P.;
