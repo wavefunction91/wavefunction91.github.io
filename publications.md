@@ -6,7 +6,7 @@ permalink: /pubs/
 
 The most up-to-date list of my accepted and submitted
 publications, please refer to my [CV]({{ site.url }}/_assets/CV.pdf).
-A semi-up-to-date BibTeX file with all of my in-press articles may be
+A BibTeX file with all of my publications and preprints may be
 found [here]({{ site.url  }}/_assets/DBWY.bib). 
 
 [Google Scholar](https://scholar.google.com/citations?user=lBCHkQoAAAAJ)<br>
