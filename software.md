@@ -19,8 +19,9 @@ chemistry-aware quantum algorithms for quantum computing applications.
 - [Github](https://github.com/wavefunction91/GauXC)
 
 GauXC is a modern C++ library for massively parallel, GPU accelerated Gaussian basis
-DFT simulations. It is the primary DFT driver for the NWChemEX project as well
-as various others (MPQC, etc).
+DFT simulations. It is the primary DFT driver for NWChemEx and is used by a number
+of other packages, including ExaChem, Psi4, MPQC, QDK/Chemistry, and the Skala
+deep-learned exchange-correlation functional.
 
 
 ## ExchCXX

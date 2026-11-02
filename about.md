@@ -26,6 +26,17 @@ architect and group lead for
 and QDK/Analytics. In this role I combine engineering management with hands-on
 technical leadership: setting the architecture and technical direction of our
 products while continuing to contribute directly to their development.
+High-performance computing remains central to this work: I've drawn on a decade of GPU
+and distributed-memory library development, including GauXC and MACIS, to give
+QDK/Chemistry a scalable classical simulation layer. I also lead the integration of AI into
+our R&D workflows, spanning algorithm discovery, methods development, and HPC
+optimization; work that once took months now takes days. I'm a strong proponent of
+keeping humans in the loop: these systems are only as good as their grounding and
+steering, and much of my effort goes into building that harness and helping my team use
+these tools effectively in highly specialized work. GauXC also serves as the computational
+foundation of
+[Skala](https://microsoft.github.io/skala), Microsoft's deep-learned exchange-correlation
+functional.
 
 Over the years, I've architected and/or contributed to a number of computational
 chemistry software packages, including 
