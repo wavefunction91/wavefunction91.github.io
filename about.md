@@ -7,21 +7,25 @@ permalink: /about/
 
 Dr. David Williams--Young, Ph.D.
 <br>[Public PGP]({{site.url}}/_assets/dbwy_pub.txt) &nbsp;&nbsp; 
-[PGPMIT](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8160257273C4F947) &nbsp;&nbsp;
+[Keyserver](https://keyserver.ubuntu.com/pks/lookup?op=index&search=0xA11E7248EF13C14A1A8D85E08160257273C4F947) &nbsp;&nbsp;
 (PGP Fingerprint: {{site.gpgfgr}})
-<br>*The opinions and values expresed on
+<br>*The opinions and values expressed on
 this site are solely my own and do not
 necessarily reflect those of my current or former
 employers.*
 
 I'm a software engineer and computational scientist specializing in the
-develoment of high-performance computational chemistry software. My interests
-primarily lie at the intersection of heterogenous, accelerated computing,
-computational physics, and numerical linear algebra. Currently, I am a
-Principal Software Engineer at 
+development of high-performance scientific software for chemistry and quantum
+computing. My interests primarily lie at the intersection of quantum computing,
+heterogeneous accelerated computing, computational physics, and numerical linear
+algebra. Currently, I am a Principal Quantum Architect at
 [Microsoft Quantum](https://quantum.microsoft.com/),
-where I am the Technical Lead for the 
-Accelerated DFT product.
+where I am the engineering lead for quantum applications software and the lead
+architect and group lead for
+[QDK/Chemistry](https://github.com/microsoft/qdk-chemistry)
+and QDK/Analytics. In this role I combine engineering management with hands-on
+technical leadership: setting the architecture and technical direction of our
+products while continuing to contribute directly to their development.
 
 Over the years, I've architected and/or contributed to a number of computational
 chemistry software packages, including 
@@ -43,7 +47,7 @@ efforts.
 From 2018-2024, I was a Scientist in the
 [Applied Computing for Scientific Discovery Group (ACSD)](https://crd.lbl.gov/divisions/amcr/computational-science-dept/acsd) of the 
 [Applied Mathematics and Computational Research Division (AMCR)](https://crd.lbl.gov/divisions/amcr)
-at [Lawerence Berkeley National Lab (LBNL)](https://lbl.gov/).
+at [Lawrence Berkeley National Lab (LBNL)](https://lbl.gov/).
 My research at LBNL centered around the development of exascale electronic structure
 methods and software targeting Leadership Computing Facilities (LCF) run
 by the US Department of Energy. 

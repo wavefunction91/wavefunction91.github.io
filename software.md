@@ -4,8 +4,18 @@ title: Software
 permalink: /software/
 ---
 
+## QDK/Chemistry
+- Lead Architect / Group Lead
+- [Github](https://github.com/microsoft/qdk-chemistry)
+- [Documentation](https://microsoft.github.io/qdk-chemistry)
+
+QDK/Chemistry is an open-source C++/Python toolkit, part of the Microsoft Quantum
+Development Kit (QDK), that connects classical electronic structure methods to
+chemistry-aware quantum algorithms for quantum computing applications.
+
+
 ## GauXC
-- Principle Developer / Maintainer 2019-present
+- Principal Developer / Maintainer 2019-present
 - [Github](https://github.com/wavefunction91/GauXC)
 
 GauXC is a modern C++ library for massively parallel, GPU accelerated Gaussian basis
@@ -14,28 +24,45 @@ as various others (MPQC, etc).
 
 
 ## ExchCXX
-- Principle Developer / Maintainer 2019-present
-- [Github](https://github.com/wavefunction91/GauXC)
+- Principal Developer / Maintainer 2019-present
+- [Github](https://github.com/wavefunction91/ExchCXX)
 
 ExchCXX is a modern C++ library for GPU accelerated evaluation of exchange-correlation functionals required for DFT simulations. It is the underlying XC implementation
 for GauXC, but can be used for any software which requires spacial evaluation of
 XC functions on GPU accelerators.
 
 
+## IntegratorXX
+- Principal Developer / Maintainer
+- [Github](https://github.com/wavefunction91/IntegratorXX)
+
+IntegratorXX is a modern C++ library for the generation of numerical quadratures,
+including the atomic and molecular integration grids used in DFT simulations.
+
+
+## MACIS
+- Principal Developer / Maintainer
+- [Github](https://github.com/wavefunction91/MACIS)
+
+MACIS (Many-Body Adaptive Configuration Interaction Suite) is a modern C++ library
+for massively parallel, distributed memory selected configuration interaction
+methods, including the adaptive sampling CI (ASCI) method.
+
+
 
 
 ## NWChemEx
-- Contributor 2018-present
-- [ECP Website](https://www.exascaleproject.org/project/nwchemex-tackling-chemical-materials-and-biomolecular-challenges-in-exascale/)
+- Contributor 2018-2024
+- [Github](https://github.com/NWChemEx)
 
-NWChemEx is an ECP funded quantum chemistry code. My contributions have
+NWChemEx is a quantum chemistry code originally funded by the DOE Exascale Computing Project (ECP). My contributions have
 been in the development of their density functional theory implementation
 as well as in the integration of scalable linear algebra solvers suitable
 for exascale computing.
 
 ## Chronus Quantum (ChronusQ)
-- Principle Developer / Maintainer  2014-2018
-- Contributor 2018-present
+- Principal Developer / Maintainer  2014-2018
+- Contributor 2018-2024
 - [Github](https://github.com/xsligroup/chronusq_public)
 
 ChronusQ is a production quantum chemistry software package 
@@ -44,12 +71,9 @@ relativistic effects in molecular quantum mechanics. It
 was the primary deliverable from my Ph.D research and is
 currently maintained by the Li Research Group.
 
-I will contribute to the project, primarily in the context of
-novel solvers for diagoanlization / inverse problems.
-
 
 ## TiledArray
-- Contributor (2020-present)
+- Contributor (2020-2024)
 - [Github](https://github.com/ValeevGroup/tiledarray)
 
 TiledArray is a distributed memory tensor contraction library developed
@@ -83,11 +107,10 @@ tensorial quaternion algorithms. The novelty of HAXX is that
 it contained an optimized implementation of quaternionic
 matrix multiplication for AVX / AVX2. 
 
-HAXX was the product of my MolSSI software fellowship in 2017--2018 
-and is still being developed.
+HAXX was the product of my MolSSI software fellowship in 2017--2018.
 
 ## PEXSI
-- Contributor 2018-present
+- Contributor 2018-2024
 - [Project Page](https://pexsi.readthedocs.io/en/latest/)
 
 The Pole EXpansion and Selected Inversion (PEXSI) method is a fast method for
