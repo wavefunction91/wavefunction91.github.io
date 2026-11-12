@@ -33,10 +33,7 @@ our R&D workflows, spanning algorithm discovery, methods development, and HPC
 optimization; work that once took months now takes days. I'm a strong proponent of
 keeping humans in the loop: these systems are only as good as their grounding and
 steering, and much of my effort goes into building that harness and helping my team use
-these tools effectively in highly specialized work. GauXC also serves as the computational
-foundation of
-[Skala](https://microsoft.github.io/skala), Microsoft's deep-learned exchange-correlation
-functional.
+these tools effectively in highly specialized work.
 
 Over the years, I've architected and/or contributed to a number of computational
 chemistry software packages, including 
